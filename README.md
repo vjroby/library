@@ -8,3 +8,5 @@ GET parameters for searching
 For tests
 
 Test may go further to implement each GET parameters, test for sql injection,
+
+Use test.sql for database creation
