@@ -1,0 +1,246 @@
+[2014-09-11 13:05:39][Exception] Code:0 Message:Unable to connect to service. Message: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: YES)
+[2014-09-11 13:23:10][Error] No. 8, File: D:\xampp\htdocs\library\application\controllers\books.php, Line: 15, String: Undefined property: Books::$actionView;
+[2014-09-11 15:46:18][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 15:46:18][Exception] Code:0 Message:Not connected to a valid service
+[2014-09-11 15:46:19][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 15:46:19][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 15:47:59][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 15:47:59][Exception] Code:0 Message:Not connected to a valid service
+[2014-09-11 15:47:59][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 15:47:59][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 15:55:37][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 15:55:37][Exception] Code:0 Message:Not connected to a valid service
+[2014-09-11 15:55:38][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 15:55:38][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 16:05:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 16:05:20][Exception] Code:0 Message:Not connected to a valid service
+[2014-09-11 16:05:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 16:05:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 16:06:19][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 16:06:19][Exception] Code:0 Message:Not connected to a valid service
+[2014-09-11 16:06:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 16:06:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 16:06:51][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 16:06:51][Exception] Code:0 Message:Not connected to a valid service
+[2014-09-11 16:07:00][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 16:07:00][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 16:08:22][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 16:13:57][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 19:59:50][Error] No. 2, File: D:\xampp\htdocs\library\framework\model.php, Line: 503, String: Invalid argument supplied for foreach();
+[2014-09-11 20:13:31][Exception] Code:0 Message:There was an error with your SQL query: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'library.author' doesn't exist
+[2014-09-11 20:13:31][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 20:13:31][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 20:14:25][Exception] Code:0 Message: setFirst_name and  error! 
+[2014-09-11 20:14:26][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 20:14:26][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 20:17:29][Exception] Code:0 Message: setFirst_name and  error! 
+[2014-09-11 20:17:29][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 20:17:29][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 20:19:15][Exception] Code:0 Message: setFirst_name and  error! 
+[2014-09-11 20:19:15][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Cannot modify header information - headers already sent by (output started at D:\xampp\htdocs\library\application\views\errors\500.php:57);
+[2014-09-11 20:19:15][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 20:21:53][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 62, String: Invalid argument supplied for foreach();
+[2014-09-11 20:42:45][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 20:43:19][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 20:46:08][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 20:52:14][Exception] Code:0 Message:get_httpMethod method not implemented
+[2014-09-11 20:54:01][Exception] Code:0 Message: setHttpMethod and 0 error! 
+[2014-09-11 21:00:26][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:00:32][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:01:48][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:03:32][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:06:10][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:06:32][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:06:45][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:08:07][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:08:26][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:08:40][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:09:07][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:10:11][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:12:36][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:13:00][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:13:10][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:13:18][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:13:36][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:13:49][Exception] Code:0 Message:Controller Dsadasfsafadas not found Dsadasfsafadas
+[2014-09-11 21:14:09][Exception] Code:0 Message:Controller Api not found Api
+[2014-09-11 21:14:51][Exception] Code:0 Message:Controller Api not found Api
+[2014-09-11 21:15:20][Exception] Code:0 Message:Action getAllForApi not found
+[2014-09-11 21:15:27][Exception] Code:0 Message:Controller Api not found Api
+[2014-09-11 21:16:05][Exception] Code:0 Message:Action getAllForApi not found
+[2014-09-11 21:16:32][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 21:25:49][Exception] Code:0 Message:Controller Tests not found Tests
+[2014-09-11 21:35:31][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:35:31][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:38:30][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:38:31][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:39:58][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:39:58][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:40:08][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:40:08][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:40:33][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:40:34][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:44:57][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 21:47:06][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:47:06][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:48:00][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:48:00][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:49:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:49:20][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:49:23][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 21:54:59][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:54:59][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 21:56:26][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 86, String: Invalid argument supplied for foreach();
+[2014-09-11 21:56:26][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 68, String: Invalid argument supplied for foreach();
+[2014-09-11 22:03:06][Exception] Code:0 Message:Controller Api not found Api
+[2014-09-11 22:03:42][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:04:43][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 65, String: Undefined index: title;
+[2014-09-11 22:04:43][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:04:43][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:04:46][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:05:28][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 65, String: Undefined index: title;
+[2014-09-11 22:05:28][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:05:28][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:05:51][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:06:30][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:06:30][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:06:34][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:06:34][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:06:38][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:06:57][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:06:57][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:07:03][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:07:03][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:08:22][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:08:22][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:08:23][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:08:29][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:08:29][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:08:54][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:08:54][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:08:57][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:08:57][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:09:12][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:09:12][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:09:15][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:09:15][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:09:53][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:09:53][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:09:56][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:09:56][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:10:23][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:10:23][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:10:24][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:10:24][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:10:44][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:10:44][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:10:47][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:10:47][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:11:08][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:11:08][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:11:11][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:11:11][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:11:46][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:11:46][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:13:41][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:13:41][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:13:49][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:13:49][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:16:51][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:16:51][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:17:01][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:17:01][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:17:15][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:17:15][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:17:37][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:17:37][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:17:53][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:18:10][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:18:10][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:18:13][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:26:48][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:27:17][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:27:34][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:27:51][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:28:34][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:28:41][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:28:41][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:28:41][Exception] Code:0 Message:There was an error with your SQL query: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'created' in where clause is ambiguous
+[2014-09-11 22:28:41][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:28:41][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:29:06][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:29:06][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:29:10][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:29:35][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:29:35][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:29:39][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:30:02][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:30:02][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:31:02][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:31:38][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:31:38][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:31:42][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:33:08][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:33:08][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:37:40][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:37:52][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:37:52][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:37:55][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:38:27][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:38:27][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:38:27][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:38:27][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:38:27][Exception] Code:0 Message:There was an error with your SQL query: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'authorLastName' in 'where clause'
+[2014-09-11 22:38:27][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:38:27][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:39:26][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:39:26][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:39:26][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:39:26][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:39:29][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:39:29][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:39:40][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:39:40][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:39:40][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:39:40][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:39:43][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:39:43][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:40:14][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:40:14][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:40:14][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:40:14][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:40:17][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:40:17][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:40:30][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:40:30][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:40:30][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:40:30][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:40:33][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:40:33][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:40:42][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:40:42][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:40:42][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:40:42][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:40:45][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:40:45][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:41:13][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:41:13][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:41:15][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:41:42][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:41:42][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:41:45][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:41:45][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:42:00][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:42:00][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:44:04][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:44:04][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:44:34][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:44:34][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:44:34][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:44:34][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:45:50][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:45:50][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();
+[2014-09-11 22:45:58][Error] No. 8, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 389, String: Undefined property: Framework\RequestMethods::$_xss_hash;
+[2014-09-11 22:45:58][Error] No. 2, File: D:\xampp\htdocs\library\framework\requestmethods.php, Line: 231, String: preg_replace_callback(): Requires argument 2, 'Framework\RequestMethods::_sanitize_naughty_html', to be a valid callback;
+[2014-09-11 22:46:02][Error] No. 8, File: D:\xampp\htdocs\library\framework\view.php, Line: 60, String: Undefined variable: e;
+[2014-09-11 22:46:02][Error] No. 2, File: D:\xampp\htdocs\library\framework\view.php, Line: 63, String: Invalid argument supplied for foreach();

@@ -1,0 +1,1369 @@
+[2014-09-11 13:05:35]framework.configuration.initialize.before: ini
+[2014-09-11 13:05:35]framework.configuration.initialize.after: ini
+[2014-09-11 13:05:35]framework.database.initialize.before: 
+[2014-09-11 13:05:35]framework.database.initialize.after: mysql
+[2014-09-11 13:05:35]framework.cache.initialize.before: 
+[2014-09-11 13:05:35]framework.cache.initialize.after: memcached
+[2014-09-11 13:05:35]framework.session.initialize.before: 
+[2014-09-11 13:05:35]framework.session.initialize.after: server
+[2014-09-11 13:05:35]framework.router.dispatch.before: home/index
+[2014-09-11 13:05:36]framework.router.dispatch.after: home/index, home, index
+[2014-09-11 13:05:36]framework.controller.construct.before: Home
+[2014-09-11 13:05:36]framework.view.construct.before: D:\xampp\htdocs\library/application/views/layouts/standard.php
+[2014-09-11 13:05:36]framework.controller.construct.after: Home
+Average: -0.021996923076923, Longest: 0.366021, Shortest: -0.966998, Total: -0.248786
+[2014-09-11 13:14:11]framework.configuration.initialize.before: ini
+[2014-09-11 13:14:11]framework.configuration.initialize.after: ini
+[2014-09-11 13:14:11]framework.database.initialize.before: 
+[2014-09-11 13:14:11]framework.database.initialize.after: mysql
+[2014-09-11 13:14:11]framework.cache.initialize.before: 
+[2014-09-11 13:14:11]framework.cache.initialize.after: memcached
+[2014-09-11 13:14:11]framework.session.initialize.before: 
+[2014-09-11 13:14:11]framework.session.initialize.after: server
+[2014-09-11 13:14:11]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:14:11]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: 0.0282016, Longest: 0.135008, Shortest: 0.005, Total: 0.290017
+[2014-09-11 13:15:15]framework.configuration.initialize.before: ini
+[2014-09-11 13:15:15]framework.configuration.initialize.after: ini
+[2014-09-11 13:15:15]framework.database.initialize.before: 
+[2014-09-11 13:15:15]framework.database.initialize.after: mysql
+[2014-09-11 13:15:15]framework.cache.initialize.before: 
+[2014-09-11 13:15:15]framework.cache.initialize.after: memcached
+[2014-09-11 13:15:15]framework.session.initialize.before: 
+[2014-09-11 13:15:15]framework.session.initialize.after: server
+[2014-09-11 13:15:16]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:15:16]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: -0.0724984, Longest: 0.029002, Shortest: -0.860992, Total: -0.718984
+[2014-09-11 13:15:26]framework.configuration.initialize.before: ini
+[2014-09-11 13:15:26]framework.configuration.initialize.after: ini
+[2014-09-11 13:15:26]framework.database.initialize.before: 
+[2014-09-11 13:15:26]framework.database.initialize.after: mysql
+[2014-09-11 13:15:26]framework.cache.initialize.before: 
+[2014-09-11 13:15:26]framework.cache.initialize.after: memcached
+[2014-09-11 13:15:26]framework.session.initialize.before: 
+[2014-09-11 13:15:26]framework.session.initialize.after: server
+[2014-09-11 13:15:26]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:15:26]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: 0.0246014, Longest: 0.125007, Shortest: 0.005001, Total: 0.253014
+[2014-09-11 13:21:25]framework.configuration.initialize.before: ini
+[2014-09-11 13:21:25]framework.configuration.initialize.after: ini
+[2014-09-11 13:21:25]framework.database.initialize.before: 
+[2014-09-11 13:21:25]framework.database.initialize.after: mysql
+[2014-09-11 13:21:25]framework.cache.initialize.before: 
+[2014-09-11 13:21:25]framework.cache.initialize.after: memcached
+[2014-09-11 13:21:25]framework.session.initialize.before: 
+[2014-09-11 13:21:25]framework.session.initialize.after: server
+[2014-09-11 13:21:25]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:21:25]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: 0.0449026, Longest: 0.229013, Shortest: 0.010001, Total: -0.537973
+[2014-09-11 13:22:03]framework.configuration.initialize.before: ini
+[2014-09-11 13:22:03]framework.configuration.initialize.after: ini
+[2014-09-11 13:22:03]framework.database.initialize.before: 
+[2014-09-11 13:22:03]framework.database.initialize.after: mysql
+[2014-09-11 13:22:03]framework.cache.initialize.before: 
+[2014-09-11 13:22:03]framework.cache.initialize.after: memcached
+[2014-09-11 13:22:03]framework.session.initialize.before: 
+[2014-09-11 13:22:03]framework.session.initialize.after: server
+[2014-09-11 13:22:03]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:22:03]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: 0.0552031, Longest: 0.287017, Shortest: 0.009, Total: 0.565032
+[2014-09-11 13:22:19]framework.configuration.initialize.before: ini
+[2014-09-11 13:22:19]framework.configuration.initialize.after: ini
+[2014-09-11 13:22:19]framework.database.initialize.before: 
+[2014-09-11 13:22:19]framework.database.initialize.after: mysql
+[2014-09-11 13:22:19]framework.cache.initialize.before: 
+[2014-09-11 13:22:19]framework.cache.initialize.after: memcached
+[2014-09-11 13:22:20]framework.session.initialize.before: 
+[2014-09-11 13:22:20]framework.session.initialize.after: server
+[2014-09-11 13:22:20]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:22:20]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: -0.0517973, Longest: 0.244014, Shortest: -0.975999, Total: -0.289102
+[2014-09-11 13:25:03]framework.configuration.initialize.before: ini
+[2014-09-11 13:25:03]framework.configuration.initialize.after: ini
+[2014-09-11 13:25:03]framework.database.initialize.before: 
+[2014-09-11 13:25:03]framework.database.initialize.after: mysql
+[2014-09-11 13:25:03]framework.cache.initialize.before: 
+[2014-09-11 13:25:03]framework.cache.initialize.after: memcached
+[2014-09-11 13:25:03]framework.session.initialize.before: 
+[2014-09-11 13:25:03]framework.session.initialize.after: server
+[2014-09-11 13:25:03]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:25:03]framework.router.dispatch.after: books/getBooks, books, getBooks
+Average: 0.0627036, Longest: 0.36502, Shortest: 0.014001, Total: 0.082293
+[2014-09-11 13:25:43]framework.configuration.initialize.before: ini
+[2014-09-11 13:25:43]framework.configuration.initialize.after: ini
+[2014-09-11 13:25:43]framework.database.initialize.before: 
+[2014-09-11 13:25:43]framework.database.initialize.after: mysql
+[2014-09-11 13:25:43]framework.cache.initialize.before: 
+[2014-09-11 13:25:43]framework.cache.initialize.after: memcached
+[2014-09-11 13:25:43]framework.session.initialize.before: 
+[2014-09-11 13:25:43]framework.session.initialize.after: server
+[2014-09-11 13:25:43]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:25:43]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:25:43]framework.controller.construct.before: Books
+[2014-09-11 13:25:44]framework.controller.construct.after: Books
+Average: -0.04474775, Longest: 0.18101, Shortest: -0.910995, Total: -0.493971
+[2014-09-11 13:49:30]framework.configuration.initialize.before: ini
+[2014-09-11 13:49:30]framework.configuration.initialize.after: ini
+[2014-09-11 13:49:30]framework.database.initialize.before: 
+[2014-09-11 13:49:30]framework.database.initialize.after: mysql
+[2014-09-11 13:49:30]framework.cache.initialize.before: 
+[2014-09-11 13:49:31]framework.cache.initialize.after: memcached
+[2014-09-11 13:49:31]framework.session.initialize.before: 
+[2014-09-11 13:49:31]framework.session.initialize.after: server
+[2014-09-11 13:49:31]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:49:31]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:49:31]framework.controller.construct.before: Books
+[2014-09-11 13:49:31]framework.controller.construct.after: Books
+Average: -0.030913666666667, Longest: 0.229013, Shortest: -0.967998, Total: -0.328961
+[2014-09-11 13:51:39]framework.configuration.initialize.before: ini
+[2014-09-11 13:51:39]framework.configuration.initialize.after: ini
+[2014-09-11 13:51:39]framework.database.initialize.before: 
+[2014-09-11 13:51:39]framework.database.initialize.after: mysql
+[2014-09-11 13:51:39]framework.cache.initialize.before: 
+[2014-09-11 13:51:39]framework.cache.initialize.after: memcached
+[2014-09-11 13:51:39]framework.session.initialize.before: 
+[2014-09-11 13:51:39]framework.session.initialize.after: server
+[2014-09-11 13:51:40]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:51:40]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:51:40]framework.controller.construct.before: Books
+[2014-09-11 13:51:40]framework.controller.construct.after: Books
+Average: -0.056581833333333, Longest: 0.042002, Shortest: -0.865992, Total: -0.658866
+[2014-09-11 13:52:05]framework.configuration.initialize.before: ini
+[2014-09-11 13:52:05]framework.configuration.initialize.after: ini
+[2014-09-11 13:52:05]framework.database.initialize.before: 
+[2014-09-11 13:52:05]framework.database.initialize.after: mysql
+[2014-09-11 13:52:05]framework.cache.initialize.before: 
+[2014-09-11 13:52:05]framework.cache.initialize.after: memcached
+[2014-09-11 13:52:05]framework.session.initialize.before: 
+[2014-09-11 13:52:05]framework.session.initialize.after: server
+[2014-09-11 13:52:05]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:52:05]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:52:05]framework.controller.construct.before: Books
+[2014-09-11 13:52:05]framework.controller.construct.after: Books
+Average: 0.0260015, Longest: 0.132008, Shortest: 0.006, Total: 0.326133
+[2014-09-11 13:53:27]framework.configuration.initialize.before: ini
+[2014-09-11 13:53:27]framework.configuration.initialize.after: ini
+[2014-09-11 13:53:27]framework.database.initialize.before: 
+[2014-09-11 13:53:27]framework.database.initialize.after: mysql
+[2014-09-11 13:53:27]framework.cache.initialize.before: 
+[2014-09-11 13:53:27]framework.cache.initialize.after: memcached
+[2014-09-11 13:53:27]framework.session.initialize.before: 
+[2014-09-11 13:53:27]framework.session.initialize.after: server
+[2014-09-11 13:53:27]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:53:27]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:53:27]framework.controller.construct.before: Books
+[2014-09-11 13:53:27]framework.controller.construct.after: Books
+Average: 0.048836166666667, Longest: 0.243014, Shortest: 0.011, Total: 0.628036
+[2014-09-11 13:53:42]framework.configuration.initialize.before: ini
+[2014-09-11 13:53:42]framework.configuration.initialize.after: ini
+[2014-09-11 13:53:42]framework.database.initialize.before: 
+[2014-09-11 13:53:43]framework.database.initialize.after: mysql
+[2014-09-11 13:53:43]framework.cache.initialize.before: 
+[2014-09-11 13:53:43]framework.cache.initialize.after: memcached
+[2014-09-11 13:53:43]framework.session.initialize.before: 
+[2014-09-11 13:53:43]framework.session.initialize.after: server
+[2014-09-11 13:53:43]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:53:43]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:53:43]framework.controller.construct.before: Books
+[2014-09-11 13:53:43]framework.controller.construct.after: Books
+Average: -0.031330333333333, Longest: 0.246014, Shortest: -0.947997, Total: -0.333962
+[2014-09-11 13:56:22]framework.configuration.initialize.before: ini
+[2014-09-11 13:56:22]framework.configuration.initialize.after: ini
+[2014-09-11 13:56:22]framework.database.initialize.before: 
+[2014-09-11 13:56:22]framework.database.initialize.after: mysql
+[2014-09-11 13:56:22]framework.cache.initialize.before: 
+[2014-09-11 13:56:22]framework.cache.initialize.after: memcached
+[2014-09-11 13:56:22]framework.session.initialize.before: 
+[2014-09-11 13:56:22]framework.session.initialize.after: server
+[2014-09-11 13:56:22]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:56:22]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:56:22]framework.controller.construct.before: Books
+[2014-09-11 13:56:22]framework.controller.construct.after: Books
+Average: 0.028251583333333, Longest: 0.133007, Shortest: 0.006, Total: 0.359135
+[2014-09-11 13:56:51]framework.configuration.initialize.before: ini
+[2014-09-11 13:56:51]framework.configuration.initialize.after: ini
+[2014-09-11 13:56:51]framework.database.initialize.before: 
+[2014-09-11 13:56:51]framework.database.initialize.after: mysql
+[2014-09-11 13:56:51]framework.cache.initialize.before: 
+[2014-09-11 13:56:51]framework.cache.initialize.after: memcached
+[2014-09-11 13:56:51]framework.session.initialize.before: 
+[2014-09-11 13:56:51]framework.session.initialize.after: server
+[2014-09-11 13:56:51]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:56:51]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:56:51]framework.controller.construct.before: Books
+[2014-09-11 13:56:51]framework.controller.construct.after: Books
+Average: -0.015912833333333, Longest: 0.427025, Shortest: -0.974999, Total: -0.135951
+[2014-09-11 13:58:14]framework.configuration.initialize.before: ini
+[2014-09-11 13:58:14]framework.configuration.initialize.after: ini
+[2014-09-11 13:58:14]framework.database.initialize.before: 
+[2014-09-11 13:58:14]framework.database.initialize.after: mysql
+[2014-09-11 13:58:14]framework.cache.initialize.before: 
+[2014-09-11 13:58:14]framework.cache.initialize.after: memcached
+[2014-09-11 13:58:14]framework.session.initialize.before: 
+[2014-09-11 13:58:14]framework.session.initialize.after: server
+[2014-09-11 13:58:14]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:58:14]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:58:14]framework.controller.construct.before: Books
+[2014-09-11 13:58:14]framework.controller.construct.after: Books
+Average: 0.0265015, Longest: 0.130007, Shortest: 0.006, Total: 0.333134
+[2014-09-11 13:58:24]framework.configuration.initialize.before: ini
+[2014-09-11 13:58:24]framework.configuration.initialize.after: ini
+[2014-09-11 13:58:24]framework.database.initialize.before: 
+[2014-09-11 13:58:24]framework.database.initialize.after: mysql
+[2014-09-11 13:58:24]framework.cache.initialize.before: 
+[2014-09-11 13:58:24]framework.cache.initialize.after: memcached
+[2014-09-11 13:58:24]framework.session.initialize.before: 
+[2014-09-11 13:58:24]framework.session.initialize.after: server
+[2014-09-11 13:58:25]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:58:25]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:58:25]framework.controller.construct.before: Books
+[2014-09-11 13:58:25]framework.controller.construct.after: Books
+Average: -0.032497083333333, Longest: 0.096005, Shortest: -0.735985, Total: -0.342962
+[2014-09-11 13:59:03]framework.configuration.initialize.before: ini
+[2014-09-11 13:59:03]framework.configuration.initialize.after: ini
+[2014-09-11 13:59:03]framework.database.initialize.before: 
+[2014-09-11 13:59:04]framework.database.initialize.after: mysql
+[2014-09-11 13:59:04]framework.cache.initialize.before: 
+[2014-09-11 13:59:04]framework.cache.initialize.after: memcached
+[2014-09-11 13:59:04]framework.session.initialize.before: 
+[2014-09-11 13:59:04]framework.session.initialize.after: server
+[2014-09-11 13:59:04]framework.router.dispatch.before: books/getBooks
+[2014-09-11 13:59:04]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 13:59:04]framework.controller.construct.before: Books
+[2014-09-11 13:59:04]framework.controller.construct.after: Books
+Average: -0.029496916666667, Longest: 0.255014, Shortest: -0.969998, Total: -0.29796
+[2014-09-11 14:01:44]framework.configuration.initialize.before: ini
+[2014-09-11 14:01:44]framework.configuration.initialize.after: ini
+[2014-09-11 14:01:44]framework.database.initialize.before: 
+[2014-09-11 14:01:44]framework.database.initialize.after: mysql
+[2014-09-11 14:01:44]framework.cache.initialize.before: 
+[2014-09-11 14:01:44]framework.cache.initialize.after: memcached
+[2014-09-11 14:01:44]framework.session.initialize.before: 
+[2014-09-11 14:01:44]framework.session.initialize.after: server
+[2014-09-11 14:01:44]framework.router.dispatch.before: books/getBooks
+[2014-09-11 14:01:45]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 14:01:45]framework.controller.construct.after: Books
+Average: -0.022814272727273, Longest: 0.302017, Shortest: -0.990999, Total: -0.207954
+[2014-09-11 14:03:23]framework.configuration.initialize.before: ini
+[2014-09-11 14:03:23]framework.configuration.initialize.after: ini
+[2014-09-11 14:03:23]framework.database.initialize.before: 
+[2014-09-11 14:03:23]framework.database.initialize.after: mysql
+[2014-09-11 14:03:23]framework.cache.initialize.before: 
+[2014-09-11 14:03:23]framework.cache.initialize.after: memcached
+[2014-09-11 14:03:23]framework.session.initialize.before: 
+[2014-09-11 14:03:23]framework.session.initialize.after: server
+[2014-09-11 14:03:24]framework.router.dispatch.before: books/getBooks
+[2014-09-11 14:03:24]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 14:03:24]framework.controller.construct.after: Books
+Average: -0.062452909090909, Longest: 0.049002, Shortest: -0.869993, Total: -0.665866
+[2014-09-11 14:03:34]framework.configuration.initialize.before: ini
+[2014-09-11 14:03:34]framework.configuration.initialize.after: ini
+[2014-09-11 14:03:34]framework.database.initialize.before: 
+[2014-09-11 14:03:34]framework.database.initialize.after: mysql
+[2014-09-11 14:03:34]framework.cache.initialize.before: 
+[2014-09-11 14:03:34]framework.cache.initialize.after: memcached
+[2014-09-11 14:03:35]framework.session.initialize.before: 
+[2014-09-11 14:03:35]framework.session.initialize.after: server
+[2014-09-11 14:03:35]framework.router.dispatch.before: books/getBooks
+[2014-09-11 14:03:35]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 14:03:35]framework.controller.construct.after: Books
+Average: -0.031542, Longest: 0.289016, Shortest: -0.978999, Total: -0.29996
+[2014-09-11 14:04:11]framework.configuration.initialize.before: ini
+[2014-09-11 14:04:11]framework.configuration.initialize.after: ini
+[2014-09-11 14:04:11]framework.database.initialize.before: 
+[2014-09-11 14:04:11]framework.database.initialize.after: mysql
+[2014-09-11 14:04:11]framework.cache.initialize.before: 
+[2014-09-11 14:04:11]framework.cache.initialize.after: memcached
+[2014-09-11 14:04:11]framework.session.initialize.before: 
+[2014-09-11 14:04:11]framework.session.initialize.after: server
+[2014-09-11 14:04:11]framework.router.dispatch.before: books/getBooks
+[2014-09-11 14:04:11]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 14:04:11]framework.controller.construct.after: Books
+Average: 0.028365272727273, Longest: 0.131008, Shortest: 0.006, Total: 0.336133
+[2014-09-11 14:19:55]framework.configuration.initialize.before: ini
+[2014-09-11 14:19:55]framework.configuration.initialize.after: ini
+[2014-09-11 14:19:55]framework.database.initialize.before: 
+[2014-09-11 14:19:55]framework.database.initialize.after: mysql
+[2014-09-11 14:19:55]framework.cache.initialize.before: 
+[2014-09-11 14:19:55]framework.cache.initialize.after: memcached
+[2014-09-11 14:19:55]framework.session.initialize.before: 
+[2014-09-11 14:19:55]framework.session.initialize.after: server
+[2014-09-11 14:19:56]framework.router.dispatch.before: books/getBooks
+[2014-09-11 14:19:56]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 14:19:56]framework.controller.construct.after: Books
+Average: -0.062816545454545, Longest: 0.047003, Shortest: -0.871993, Total: -0.659866
+[2014-09-11 15:46:18]framework.configuration.initialize.before: ini
+[2014-09-11 15:46:18]framework.configuration.initialize.after: ini
+[2014-09-11 15:46:18]framework.database.initialize.before: 
+[2014-09-11 15:46:18]framework.database.initialize.after: mysql
+[2014-09-11 15:46:18]framework.cache.initialize.before: 
+[2014-09-11 15:46:18]framework.cache.initialize.after: memcached
+[2014-09-11 15:46:18]framework.session.initialize.before: 
+[2014-09-11 15:46:18]framework.session.initialize.after: server
+[2014-09-11 15:46:18]framework.router.dispatch.before: books/getBooks
+[2014-09-11 15:46:18]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 15:46:18]framework.controller.construct.after: Books
+Average: 0.034911090909091, Longest: 0.17901, Shortest: 0.006, Total: 0.621035
+[2014-09-11 15:47:59]framework.configuration.initialize.before: ini
+[2014-09-11 15:47:59]framework.configuration.initialize.after: ini
+[2014-09-11 15:47:59]framework.database.initialize.before: 
+[2014-09-11 15:47:59]framework.database.initialize.after: mysql
+[2014-09-11 15:47:59]framework.cache.initialize.before: 
+[2014-09-11 15:47:59]framework.cache.initialize.after: memcached
+[2014-09-11 15:47:59]framework.session.initialize.before: 
+[2014-09-11 15:47:59]framework.session.initialize.after: server
+[2014-09-11 15:47:59]framework.router.dispatch.before: books/getBooks
+[2014-09-11 15:47:59]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 15:47:59]framework.controller.construct.after: Books
+Average: 0.025456, Longest: 0.111006, Shortest: 0.005, Total: 0.419024
+[2014-09-11 15:55:37]framework.configuration.initialize.before: ini
+[2014-09-11 15:55:37]framework.configuration.initialize.after: ini
+[2014-09-11 15:55:37]framework.database.initialize.before: 
+[2014-09-11 15:55:37]framework.database.initialize.after: mysql
+[2014-09-11 15:55:37]framework.cache.initialize.before: 
+[2014-09-11 15:55:37]framework.cache.initialize.after: memcached
+[2014-09-11 15:55:37]framework.session.initialize.before: 
+[2014-09-11 15:55:37]framework.session.initialize.after: server
+[2014-09-11 15:55:37]framework.router.dispatch.before: books/getBooks
+[2014-09-11 15:55:37]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 15:55:37]framework.controller.construct.after: Books
+Average: 0.033092818181818, Longest: 0.152009, Shortest: 0.006, Total: -0.495971
+[2014-09-11 16:05:20]framework.configuration.initialize.before: ini
+[2014-09-11 16:05:20]framework.configuration.initialize.after: ini
+[2014-09-11 16:05:20]framework.database.initialize.before: 
+[2014-09-11 16:05:20]framework.database.initialize.after: mysql
+[2014-09-11 16:05:20]framework.cache.initialize.before: 
+[2014-09-11 16:05:20]framework.cache.initialize.after: memcached
+[2014-09-11 16:05:20]framework.session.initialize.before: 
+[2014-09-11 16:05:20]framework.session.initialize.after: server
+[2014-09-11 16:05:20]framework.router.dispatch.before: books/getBooks
+[2014-09-11 16:05:20]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 16:05:20]framework.controller.construct.after: Books
+Average: 0.041184181818182, Longest: 0.17301, Shortest: 0.006, Total: 0.583033
+[2014-09-11 16:06:19]framework.configuration.initialize.before: ini
+[2014-09-11 16:06:19]framework.configuration.initialize.after: ini
+[2014-09-11 16:06:19]framework.database.initialize.before: 
+[2014-09-11 16:06:19]framework.database.initialize.after: mysql
+[2014-09-11 16:06:19]framework.cache.initialize.before: 
+[2014-09-11 16:06:19]framework.cache.initialize.after: memcached
+[2014-09-11 16:06:19]framework.session.initialize.before: 
+[2014-09-11 16:06:19]framework.session.initialize.after: server
+[2014-09-11 16:06:19]framework.router.dispatch.before: books/getBooks
+[2014-09-11 16:06:19]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 16:06:19]framework.controller.construct.after: Books
+Average: 0.030183545454545, Longest: 0.136008, Shortest: 0.006, Total: 0.421025
+[2014-09-11 16:06:50]framework.configuration.initialize.before: ini
+[2014-09-11 16:06:50]framework.configuration.initialize.after: ini
+[2014-09-11 16:06:50]framework.database.initialize.before: 
+[2014-09-11 16:06:50]framework.database.initialize.after: mysql
+[2014-09-11 16:06:50]framework.cache.initialize.before: 
+[2014-09-11 16:06:51]framework.cache.initialize.after: memcached
+[2014-09-11 16:06:51]framework.session.initialize.before: 
+[2014-09-11 16:06:51]framework.session.initialize.after: server
+[2014-09-11 16:06:51]framework.router.dispatch.before: books/getBooks
+[2014-09-11 16:06:51]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 16:06:51]framework.controller.construct.after: Books
+Average: -0.024359818181818, Longest: 0.313018, Shortest: -0.966998, Total: -0.077948
+[2014-09-11 16:08:17]framework.configuration.initialize.before: ini
+[2014-09-11 16:08:17]framework.configuration.initialize.after: ini
+[2014-09-11 16:08:17]framework.database.initialize.before: 
+[2014-09-11 16:08:17]framework.database.initialize.after: mysql
+[2014-09-11 16:08:17]framework.cache.initialize.before: 
+[2014-09-11 16:08:17]framework.cache.initialize.after: memcached
+[2014-09-11 16:08:17]framework.session.initialize.before: 
+[2014-09-11 16:08:17]framework.session.initialize.after: server
+[2014-09-11 16:08:18]framework.router.dispatch.before: books/getBooks
+[2014-09-11 16:08:18]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 16:08:18]framework.controller.construct.after: Books
+Average: -0.031542090909091, Longest: 0.123007, Shortest: -0.760986, Total: -0.326733
+[2014-09-11 16:13:57]framework.configuration.initialize.before: ini
+[2014-09-11 16:13:57]framework.configuration.initialize.after: ini
+[2014-09-11 16:13:57]framework.database.initialize.before: 
+[2014-09-11 16:13:57]framework.database.initialize.after: mysql
+[2014-09-11 16:13:57]framework.cache.initialize.before: 
+[2014-09-11 16:13:57]framework.cache.initialize.after: memcached
+[2014-09-11 16:13:57]framework.session.initialize.before: 
+[2014-09-11 16:13:57]framework.session.initialize.after: server
+[2014-09-11 16:13:57]framework.router.dispatch.before: books/getBooks
+[2014-09-11 16:13:57]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 16:13:57]framework.controller.construct.after: Books
+Average: 0.029819909090909, Longest: 0.137008, Shortest: 0.006, Total: 0.750158
+[2014-09-11 19:59:49]framework.configuration.initialize.before: ini
+[2014-09-11 19:59:49]framework.configuration.initialize.after: ini
+[2014-09-11 19:59:49]framework.database.initialize.before: 
+[2014-09-11 19:59:49]framework.database.initialize.after: mysql
+[2014-09-11 19:59:49]framework.cache.initialize.before: 
+[2014-09-11 19:59:49]framework.cache.initialize.after: memcached
+[2014-09-11 19:59:49]framework.session.initialize.before: 
+[2014-09-11 19:59:49]framework.session.initialize.after: server
+[2014-09-11 19:59:50]framework.router.dispatch.before: books/getBooks
+[2014-09-11 19:59:50]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 19:59:50]framework.controller.construct.after: Books
+Average: -0.050543181818182, Longest: 0.074004, Shortest: -0.82199, Total: 0.283188
+[2014-09-11 20:13:30]framework.configuration.initialize.before: ini
+[2014-09-11 20:13:30]framework.configuration.initialize.after: ini
+[2014-09-11 20:13:30]framework.database.initialize.before: 
+[2014-09-11 20:13:30]framework.database.initialize.after: mysql
+[2014-09-11 20:13:30]framework.cache.initialize.before: 
+[2014-09-11 20:13:30]framework.cache.initialize.after: memcached
+[2014-09-11 20:13:30]framework.session.initialize.before: 
+[2014-09-11 20:13:30]framework.session.initialize.after: server
+[2014-09-11 20:13:31]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:13:31]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:13:31]framework.controller.construct.after: Books
+Average: -0.055907090909091, Longest: 0.068003, Shortest: -0.843991, Total: -0.362964
+[2014-09-11 20:14:25]framework.configuration.initialize.before: ini
+[2014-09-11 20:14:25]framework.configuration.initialize.after: ini
+[2014-09-11 20:14:25]framework.database.initialize.before: 
+[2014-09-11 20:14:25]framework.database.initialize.after: mysql
+[2014-09-11 20:14:25]framework.cache.initialize.before: 
+[2014-09-11 20:14:25]framework.cache.initialize.after: memcached
+[2014-09-11 20:14:25]framework.session.initialize.before: 
+[2014-09-11 20:14:25]framework.session.initialize.after: server
+[2014-09-11 20:14:25]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:14:25]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:14:25]framework.controller.construct.after: Books
+Average: 0.031183636363636, Longest: 0.144008, Shortest: 0.006001, Total: 0.546031
+[2014-09-11 20:17:28]framework.configuration.initialize.before: ini
+[2014-09-11 20:17:28]framework.configuration.initialize.after: ini
+[2014-09-11 20:17:28]framework.database.initialize.before: 
+[2014-09-11 20:17:28]framework.database.initialize.after: mysql
+[2014-09-11 20:17:28]framework.cache.initialize.before: 
+[2014-09-11 20:17:28]framework.cache.initialize.after: memcached
+[2014-09-11 20:17:28]framework.session.initialize.before: 
+[2014-09-11 20:17:28]framework.session.initialize.after: server
+[2014-09-11 20:17:28]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:17:28]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:17:28]framework.controller.construct.after: Books
+Average: 0.028365272727273, Longest: 0.130007, Shortest: 0.006, Total: -0.496971
+[2014-09-11 20:19:14]framework.configuration.initialize.before: ini
+[2014-09-11 20:19:14]framework.configuration.initialize.after: ini
+[2014-09-11 20:19:14]framework.database.initialize.before: 
+[2014-09-11 20:19:14]framework.database.initialize.after: mysql
+[2014-09-11 20:19:14]framework.cache.initialize.before: 
+[2014-09-11 20:19:14]framework.cache.initialize.after: memcached
+[2014-09-11 20:19:14]framework.session.initialize.before: 
+[2014-09-11 20:19:14]framework.session.initialize.after: server
+[2014-09-11 20:19:15]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:19:15]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:19:15]framework.controller.construct.after: Books
+Average: -0.062271090909091, Longest: 0.051003, Shortest: -0.870992, Total: -0.451969
+[2014-09-11 20:19:34]framework.configuration.initialize.before: ini
+[2014-09-11 20:19:34]framework.configuration.initialize.after: ini
+[2014-09-11 20:19:34]framework.database.initialize.before: 
+[2014-09-11 20:19:34]framework.database.initialize.after: mysql
+[2014-09-11 20:19:34]framework.cache.initialize.before: 
+[2014-09-11 20:19:34]framework.cache.initialize.after: memcached
+[2014-09-11 20:19:34]framework.session.initialize.before: 
+[2014-09-11 20:19:34]framework.session.initialize.after: server
+[2014-09-11 20:19:34]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:19:34]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:19:34]framework.controller.construct.after: Books
+Average: 0.050002818181818, Longest: 0.215012, Shortest: 0.010001, Total: 0.361971
+[2014-09-11 20:24:30]framework.configuration.initialize.before: ini
+[2014-09-11 20:24:30]framework.configuration.initialize.after: ini
+[2014-09-11 20:24:30]framework.database.initialize.before: 
+[2014-09-11 20:24:30]framework.database.initialize.after: mysql
+[2014-09-11 20:24:30]framework.cache.initialize.before: 
+[2014-09-11 20:24:30]framework.cache.initialize.after: memcached
+[2014-09-11 20:24:30]framework.session.initialize.before: 
+[2014-09-11 20:24:30]framework.session.initialize.after: server
+[2014-09-11 20:24:30]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:24:30]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:24:30]framework.controller.construct.after: Books
+Average: 0.028547090909091, Longest: 0.128008, Shortest: 0.006, Total: -0.472856
+[2014-09-11 20:25:03]framework.configuration.initialize.before: ini
+[2014-09-11 20:25:03]framework.configuration.initialize.after: ini
+[2014-09-11 20:25:03]framework.database.initialize.before: 
+[2014-09-11 20:25:04]framework.database.initialize.after: mysql
+[2014-09-11 20:25:04]framework.cache.initialize.before: 
+[2014-09-11 20:25:04]framework.cache.initialize.after: memcached
+[2014-09-11 20:25:04]framework.session.initialize.before: 
+[2014-09-11 20:25:04]framework.session.initialize.after: server
+[2014-09-11 20:25:04]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:25:04]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:25:04]framework.controller.construct.after: Books
+Average: -0.037542454545455, Longest: 0.242014, Shortest: -0.971998, Total: -0.415221
+[2014-09-11 20:25:58]framework.configuration.initialize.before: ini
+[2014-09-11 20:25:58]framework.configuration.initialize.after: ini
+[2014-09-11 20:25:58]framework.database.initialize.before: 
+[2014-09-11 20:25:58]framework.database.initialize.after: mysql
+[2014-09-11 20:25:58]framework.cache.initialize.before: 
+[2014-09-11 20:25:58]framework.cache.initialize.after: memcached
+[2014-09-11 20:25:58]framework.session.initialize.before: 
+[2014-09-11 20:25:58]framework.session.initialize.after: server
+[2014-09-11 20:25:58]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:25:58]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:25:58]framework.controller.construct.after: Books
+Average: 0.028638, Longest: 0.131008, Shortest: 0.006, Total: -0.469856
+[2014-09-11 20:32:29]framework.configuration.initialize.before: ini
+[2014-09-11 20:32:29]framework.configuration.initialize.after: ini
+[2014-09-11 20:32:29]framework.database.initialize.before: 
+[2014-09-11 20:32:29]framework.database.initialize.after: mysql
+[2014-09-11 20:32:30]framework.cache.initialize.before: 
+[2014-09-11 20:32:30]framework.cache.initialize.after: memcached
+[2014-09-11 20:32:30]framework.session.initialize.before: 
+[2014-09-11 20:32:30]framework.session.initialize.after: server
+[2014-09-11 20:32:30]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:32:30]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:32:30]framework.controller.construct.after: Books
+Average: -0.05918, Longest: 0.128008, Shortest: -0.973998, Total: -0.340848
+[2014-09-11 20:33:49]framework.configuration.initialize.before: ini
+[2014-09-11 20:33:49]framework.configuration.initialize.after: ini
+[2014-09-11 20:33:49]framework.database.initialize.before: 
+[2014-09-11 20:33:49]framework.database.initialize.after: mysql
+[2014-09-11 20:33:49]framework.cache.initialize.before: 
+[2014-09-11 20:33:49]framework.cache.initialize.after: memcached
+[2014-09-11 20:33:49]framework.session.initialize.before: 
+[2014-09-11 20:33:49]framework.session.initialize.after: server
+[2014-09-11 20:33:50]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:33:50]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:33:50]framework.controller.construct.after: Books
+Average: -0.049815818181818, Longest: 0.059004, Shortest: -0.782988, Total: -0.233842
+[2014-09-11 20:42:41]framework.configuration.initialize.before: ini
+[2014-09-11 20:42:41]framework.configuration.initialize.after: ini
+[2014-09-11 20:42:41]framework.database.initialize.before: 
+[2014-09-11 20:42:41]framework.database.initialize.after: mysql
+[2014-09-11 20:42:41]framework.cache.initialize.before: 
+[2014-09-11 20:42:41]framework.cache.initialize.after: memcached
+[2014-09-11 20:42:41]framework.session.initialize.before: 
+[2014-09-11 20:42:41]framework.session.initialize.after: server
+[2014-09-11 20:42:42]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:42:42]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:42:42]framework.controller.construct.after: Books
+Average: -0.063089272727273, Longest: 0.047003, Shortest: -0.872992, Total: -0.38585
+[2014-09-11 20:43:15]framework.configuration.initialize.before: ini
+[2014-09-11 20:43:15]framework.configuration.initialize.after: ini
+[2014-09-11 20:43:15]framework.database.initialize.before: 
+[2014-09-11 20:43:15]framework.database.initialize.after: mysql
+[2014-09-11 20:43:15]framework.cache.initialize.before: 
+[2014-09-11 20:43:15]framework.cache.initialize.after: memcached
+[2014-09-11 20:43:15]framework.session.initialize.before: 
+[2014-09-11 20:43:15]framework.session.initialize.after: server
+[2014-09-11 20:43:15]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:43:15]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:43:15]framework.controller.construct.after: Books
+Average: 0.036002090909091, Longest: 0.164009, Shortest: 0.007, Total: -0.291845
+[2014-09-11 20:46:04]framework.configuration.initialize.before: ini
+[2014-09-11 20:46:04]framework.configuration.initialize.after: ini
+[2014-09-11 20:46:04]framework.database.initialize.before: 
+[2014-09-11 20:46:04]framework.database.initialize.after: mysql
+[2014-09-11 20:46:04]framework.cache.initialize.before: 
+[2014-09-11 20:46:04]framework.cache.initialize.after: memcached
+[2014-09-11 20:46:04]framework.session.initialize.before: 
+[2014-09-11 20:46:04]framework.session.initialize.after: server
+[2014-09-11 20:46:05]framework.router.dispatch.before: books/getBooks
+[2014-09-11 20:46:05]framework.router.dispatch.after: books/getBooks, books, getBooks
+[2014-09-11 20:46:05]framework.controller.construct.after: Books
+Average: -0.062634818181818, Longest: 0.049002, Shortest: -0.868993, Total: -0.417853
+[2014-09-11 20:52:14]framework.configuration.initialize.before: ini
+[2014-09-11 20:52:14]framework.configuration.initialize.after: ini
+[2014-09-11 20:52:14]framework.database.initialize.before: 
+[2014-09-11 20:52:14]framework.database.initialize.after: mysql
+[2014-09-11 20:52:14]framework.cache.initialize.before: 
+[2014-09-11 20:52:14]framework.cache.initialize.after: memcached
+[2014-09-11 20:52:14]framework.session.initialize.before: 
+[2014-09-11 20:52:14]framework.session.initialize.after: server
+[2014-09-11 20:52:14]framework.router.dispatch.before: dsadasfsafadas/gdfrgfd
+Average: 0.022001222222222, Longest: 0.074004, Shortest: 0.006, Total: 0.222013
+[2014-09-11 20:54:01]framework.configuration.initialize.before: ini
+[2014-09-11 20:54:01]framework.configuration.initialize.after: ini
+[2014-09-11 20:54:01]framework.database.initialize.before: 
+[2014-09-11 20:54:01]framework.database.initialize.after: mysql
+[2014-09-11 20:54:01]framework.cache.initialize.before: 
+[2014-09-11 20:54:01]framework.cache.initialize.after: memcached
+[2014-09-11 20:54:01]framework.session.initialize.before: 
+[2014-09-11 20:54:01]framework.session.initialize.after: server
+Average: 0.015626, Longest: 0.026002, Shortest: 0.006001, Total: 0.16501
+[2014-09-11 21:00:25]framework.configuration.initialize.before: ini
+[2014-09-11 21:00:25]framework.configuration.initialize.after: ini
+[2014-09-11 21:00:25]framework.database.initialize.before: 
+[2014-09-11 21:00:25]framework.database.initialize.after: mysql
+[2014-09-11 21:00:25]framework.cache.initialize.before: 
+[2014-09-11 21:00:26]framework.cache.initialize.after: memcached
+[2014-09-11 21:00:26]framework.session.initialize.before: 
+[2014-09-11 21:00:26]framework.session.initialize.after: server
+Average: -0.109499125, Longest: 0.025001, Shortest: -0.980999, Total: -0.81599
+[2014-09-11 21:00:31]framework.configuration.initialize.before: ini
+[2014-09-11 21:00:31]framework.configuration.initialize.after: ini
+[2014-09-11 21:00:31]framework.database.initialize.before: 
+[2014-09-11 21:00:31]framework.database.initialize.after: mysql
+[2014-09-11 21:00:32]framework.cache.initialize.before: 
+[2014-09-11 21:00:32]framework.cache.initialize.after: memcached
+[2014-09-11 21:00:32]framework.session.initialize.before: 
+[2014-09-11 21:00:32]framework.session.initialize.after: server
+Average: -0.107749, Longest: 0.023002, Shortest: -0.969999, Total: -0.797988
+[2014-09-11 21:01:48]framework.configuration.initialize.before: ini
+[2014-09-11 21:01:48]framework.configuration.initialize.after: ini
+[2014-09-11 21:01:48]framework.database.initialize.before: 
+[2014-09-11 21:01:48]framework.database.initialize.after: mysql
+[2014-09-11 21:01:48]framework.cache.initialize.before: 
+[2014-09-11 21:01:48]framework.cache.initialize.after: memcached
+[2014-09-11 21:01:48]framework.session.initialize.before: 
+[2014-09-11 21:01:48]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.027002, Shortest: 0.006, Total: 0.201011
+[2014-09-11 21:03:08]framework.configuration.initialize.before: ini
+[2014-09-11 21:03:08]framework.configuration.initialize.after: ini
+[2014-09-11 21:03:08]framework.database.initialize.before: 
+[2014-09-11 21:03:08]framework.database.initialize.after: mysql
+[2014-09-11 21:03:08]framework.cache.initialize.before: 
+[2014-09-11 21:03:08]framework.cache.initialize.after: memcached
+[2014-09-11 21:03:08]framework.session.initialize.before: 
+[2014-09-11 21:03:08]framework.session.initialize.after: server
+Average: 0.027626625, Longest: 0.047003, Shortest: 0.011001, Total: -0.100633
+[2014-09-11 21:04:59]framework.configuration.initialize.before: ini
+[2014-09-11 21:04:59]framework.configuration.initialize.after: ini
+[2014-09-11 21:04:59]framework.database.initialize.before: 
+[2014-09-11 21:04:59]framework.database.initialize.after: mysql
+[2014-09-11 21:04:59]framework.cache.initialize.before: 
+[2014-09-11 21:04:59]framework.cache.initialize.after: memcached
+[2014-09-11 21:04:59]framework.session.initialize.before: 
+[2014-09-11 21:04:59]framework.session.initialize.after: server
+Average: 0.031751875, Longest: 0.065004, Shortest: 0.011001, Total: 0.259076
+[2014-09-11 21:06:30]framework.configuration.initialize.before: ini
+[2014-09-11 21:06:30]framework.configuration.initialize.after: ini
+[2014-09-11 21:06:30]framework.database.initialize.before: 
+[2014-09-11 21:06:30]framework.database.initialize.after: mysql
+[2014-09-11 21:06:30]framework.cache.initialize.before: 
+[2014-09-11 21:06:30]framework.cache.initialize.after: memcached
+[2014-09-11 21:06:30]framework.session.initialize.before: 
+[2014-09-11 21:06:30]framework.session.initialize.after: server
+Average: 0.027626625, Longest: 0.052003, Shortest: 0.011001, Total: 0.121121
+[2014-09-11 21:06:45]framework.configuration.initialize.before: ini
+[2014-09-11 21:06:45]framework.configuration.initialize.after: ini
+[2014-09-11 21:06:45]framework.database.initialize.before: 
+[2014-09-11 21:06:45]framework.database.initialize.after: mysql
+[2014-09-11 21:06:45]framework.cache.initialize.before: 
+[2014-09-11 21:06:45]framework.cache.initialize.after: memcached
+[2014-09-11 21:06:45]framework.session.initialize.before: 
+[2014-09-11 21:06:45]framework.session.initialize.after: server
+Average: 0.015626, Longest: 0.026002, Shortest: 0.006001, Total: 0.185011
+[2014-09-11 21:08:07]framework.configuration.initialize.before: ini
+[2014-09-11 21:08:07]framework.configuration.initialize.after: ini
+[2014-09-11 21:08:07]framework.database.initialize.before: 
+[2014-09-11 21:08:07]framework.database.initialize.after: mysql
+[2014-09-11 21:08:07]framework.cache.initialize.before: 
+[2014-09-11 21:08:07]framework.cache.initialize.after: memcached
+[2014-09-11 21:08:07]framework.session.initialize.before: 
+[2014-09-11 21:08:07]framework.session.initialize.after: server
+Average: 0.015625875, Longest: 0.025001, Shortest: 0.006, Total: 0.184011
+[2014-09-11 21:08:26]framework.configuration.initialize.before: ini
+[2014-09-11 21:08:26]framework.configuration.initialize.after: ini
+[2014-09-11 21:08:26]framework.database.initialize.before: 
+[2014-09-11 21:08:26]framework.database.initialize.after: mysql
+[2014-09-11 21:08:26]framework.cache.initialize.before: 
+[2014-09-11 21:08:26]framework.cache.initialize.after: memcached
+[2014-09-11 21:08:26]framework.session.initialize.before: 
+[2014-09-11 21:08:26]framework.session.initialize.after: server
+Average: 0.015751, Longest: 0.025002, Shortest: 0.006001, Total: 0.188011
+[2014-09-11 21:08:40]framework.configuration.initialize.before: ini
+[2014-09-11 21:08:40]framework.configuration.initialize.after: ini
+[2014-09-11 21:08:40]framework.database.initialize.before: 
+[2014-09-11 21:08:40]framework.database.initialize.after: mysql
+[2014-09-11 21:08:40]framework.cache.initialize.before: 
+[2014-09-11 21:08:40]framework.cache.initialize.after: memcached
+[2014-09-11 21:08:40]framework.session.initialize.before: 
+[2014-09-11 21:08:40]framework.session.initialize.after: server
+Average: 0.015625875, Longest: 0.025001, Shortest: 0.006, Total: 0.185011
+[2014-09-11 21:08:56]framework.configuration.initialize.before: ini
+[2014-09-11 21:08:56]framework.configuration.initialize.after: ini
+[2014-09-11 21:08:56]framework.database.initialize.before: 
+[2014-09-11 21:08:56]framework.database.initialize.after: mysql
+[2014-09-11 21:08:56]framework.cache.initialize.before: 
+[2014-09-11 21:08:56]framework.cache.initialize.after: memcached
+[2014-09-11 21:08:56]framework.session.initialize.before: 
+[2014-09-11 21:08:56]framework.session.initialize.after: server
+Average: -0.09274825, Longest: 0.073004, Shortest: -0.973999, Total: -0.502597
+[2014-09-11 21:10:11]framework.configuration.initialize.before: ini
+[2014-09-11 21:10:11]framework.configuration.initialize.after: ini
+[2014-09-11 21:10:11]framework.database.initialize.before: 
+[2014-09-11 21:10:11]framework.database.initialize.after: mysql
+[2014-09-11 21:10:11]framework.cache.initialize.before: 
+[2014-09-11 21:10:11]framework.cache.initialize.after: memcached
+[2014-09-11 21:10:11]framework.session.initialize.before: 
+[2014-09-11 21:10:11]framework.session.initialize.after: server
+Average: 0.015375875, Longest: 0.025002, Shortest: 0.007001, Total: 0.183011
+[2014-09-11 21:11:21]framework.configuration.initialize.before: ini
+[2014-09-11 21:11:21]framework.configuration.initialize.after: ini
+[2014-09-11 21:11:21]framework.database.initialize.before: 
+[2014-09-11 21:11:21]framework.database.initialize.after: mysql
+[2014-09-11 21:11:21]framework.cache.initialize.before: 
+[2014-09-11 21:11:21]framework.cache.initialize.after: memcached
+[2014-09-11 21:11:21]framework.session.initialize.before: 
+[2014-09-11 21:11:21]framework.session.initialize.after: server
+Average: 0.027876625, Longest: 0.047003, Shortest: 0.011, Total: 0.063293
+[2014-09-11 21:12:40]framework.configuration.initialize.before: ini
+[2014-09-11 21:12:40]framework.configuration.initialize.after: ini
+[2014-09-11 21:12:40]framework.database.initialize.before: 
+[2014-09-11 21:12:40]framework.database.initialize.after: mysql
+[2014-09-11 21:12:40]framework.cache.initialize.before: 
+[2014-09-11 21:12:40]framework.cache.initialize.after: memcached
+[2014-09-11 21:12:40]framework.session.initialize.before: 
+[2014-09-11 21:12:40]framework.session.initialize.after: server
+Average: 0.0266265, Longest: 0.042002, Shortest: 0.011001, Total: 0.570176
+[2014-09-11 21:13:07]framework.configuration.initialize.before: ini
+[2014-09-11 21:13:07]framework.configuration.initialize.after: ini
+[2014-09-11 21:13:07]framework.database.initialize.before: 
+[2014-09-11 21:13:07]framework.database.initialize.after: mysql
+[2014-09-11 21:13:07]framework.cache.initialize.before: 
+[2014-09-11 21:13:07]framework.cache.initialize.after: memcached
+[2014-09-11 21:13:07]framework.session.initialize.before: 
+[2014-09-11 21:13:07]framework.session.initialize.after: server
+Average: 0.025376375, Longest: 0.041002, Shortest: 0.010001, Total: -0.131836
+[2014-09-11 21:13:18]framework.configuration.initialize.before: ini
+[2014-09-11 21:13:18]framework.configuration.initialize.after: ini
+[2014-09-11 21:13:18]framework.database.initialize.before: 
+[2014-09-11 21:13:18]framework.database.initialize.after: mysql
+[2014-09-11 21:13:18]framework.cache.initialize.before: 
+[2014-09-11 21:13:18]framework.cache.initialize.after: memcached
+[2014-09-11 21:13:18]framework.session.initialize.before: 
+[2014-09-11 21:13:18]framework.session.initialize.after: server
+Average: 0.018126, Longest: 0.036002, Shortest: 0.007, Total: 0.218012
+[2014-09-11 21:13:35]framework.configuration.initialize.before: ini
+[2014-09-11 21:13:35]framework.configuration.initialize.after: ini
+[2014-09-11 21:13:35]framework.database.initialize.before: 
+[2014-09-11 21:13:36]framework.database.initialize.after: mysql
+[2014-09-11 21:13:36]framework.cache.initialize.before: 
+[2014-09-11 21:13:36]framework.cache.initialize.after: memcached
+[2014-09-11 21:13:36]framework.session.initialize.before: 
+[2014-09-11 21:13:36]framework.session.initialize.after: server
+Average: -0.109374, Longest: 0.026002, Shortest: -0.985, Total: -0.813989
+[2014-09-11 21:13:49]framework.configuration.initialize.before: ini
+[2014-09-11 21:13:49]framework.configuration.initialize.after: ini
+[2014-09-11 21:13:49]framework.database.initialize.before: 
+[2014-09-11 21:13:49]framework.database.initialize.after: mysql
+[2014-09-11 21:13:49]framework.cache.initialize.before: 
+[2014-09-11 21:13:49]framework.cache.initialize.after: memcached
+[2014-09-11 21:13:49]framework.session.initialize.before: 
+[2014-09-11 21:13:49]framework.session.initialize.after: server
+Average: 0.015876, Longest: 0.026002, Shortest: 0.006001, Total: 0.187011
+[2014-09-11 21:14:09]framework.configuration.initialize.before: ini
+[2014-09-11 21:14:09]framework.configuration.initialize.after: ini
+[2014-09-11 21:14:09]framework.database.initialize.before: 
+[2014-09-11 21:14:09]framework.database.initialize.after: mysql
+[2014-09-11 21:14:09]framework.cache.initialize.before: 
+[2014-09-11 21:14:09]framework.cache.initialize.after: memcached
+[2014-09-11 21:14:09]framework.session.initialize.before: 
+[2014-09-11 21:14:09]framework.session.initialize.after: server
+Average: 0.015500875, Longest: 0.025002, Shortest: 0.006001, Total: 0.186011
+[2014-09-11 21:14:50]framework.configuration.initialize.before: ini
+[2014-09-11 21:14:50]framework.configuration.initialize.after: ini
+[2014-09-11 21:14:50]framework.database.initialize.before: 
+[2014-09-11 21:14:50]framework.database.initialize.after: mysql
+[2014-09-11 21:14:50]framework.cache.initialize.before: 
+[2014-09-11 21:14:50]framework.cache.initialize.after: memcached
+[2014-09-11 21:14:51]framework.session.initialize.before: 
+[2014-09-11 21:14:51]framework.session.initialize.after: server
+Average: -0.108749125, Longest: 0.028001, Shortest: -0.985999, Total: -0.807989
+[2014-09-11 21:15:20]framework.configuration.initialize.before: ini
+[2014-09-11 21:15:20]framework.configuration.initialize.after: ini
+[2014-09-11 21:15:20]framework.database.initialize.before: 
+[2014-09-11 21:15:20]framework.database.initialize.after: mysql
+[2014-09-11 21:15:20]framework.cache.initialize.before: 
+[2014-09-11 21:15:20]framework.cache.initialize.after: memcached
+[2014-09-11 21:15:20]framework.session.initialize.before: 
+[2014-09-11 21:15:20]framework.session.initialize.after: server
+[2014-09-11 21:15:20]framework.controller.construct.after: Books
+Average: 0.024445888888889, Longest: 0.095006, Shortest: 0.0059999999999999, Total: 0.265015
+[2014-09-11 21:15:27]framework.configuration.initialize.before: ini
+[2014-09-11 21:15:27]framework.configuration.initialize.after: ini
+[2014-09-11 21:15:27]framework.database.initialize.before: 
+[2014-09-11 21:15:27]framework.database.initialize.after: mysql
+[2014-09-11 21:15:27]framework.cache.initialize.before: 
+[2014-09-11 21:15:27]framework.cache.initialize.after: memcached
+[2014-09-11 21:15:27]framework.session.initialize.before: 
+[2014-09-11 21:15:27]framework.session.initialize.after: server
+Average: 0.015625875, Longest: 0.026001, Shortest: 0.007, Total: 0.18601
+[2014-09-11 21:16:05]framework.configuration.initialize.before: ini
+[2014-09-11 21:16:05]framework.configuration.initialize.after: ini
+[2014-09-11 21:16:05]framework.database.initialize.before: 
+[2014-09-11 21:16:05]framework.database.initialize.after: mysql
+[2014-09-11 21:16:05]framework.cache.initialize.before: 
+[2014-09-11 21:16:05]framework.cache.initialize.after: memcached
+[2014-09-11 21:16:05]framework.session.initialize.before: 
+[2014-09-11 21:16:05]framework.session.initialize.after: server
+[2014-09-11 21:16:05]framework.controller.construct.after: Books
+Average: 0.024890222222222, Longest: 0.097005, Shortest: 0.006, Total: 0.260015
+[2014-09-11 21:16:28]framework.configuration.initialize.before: ini
+[2014-09-11 21:16:28]framework.configuration.initialize.after: ini
+[2014-09-11 21:16:28]framework.database.initialize.before: 
+[2014-09-11 21:16:28]framework.database.initialize.after: mysql
+[2014-09-11 21:16:28]framework.cache.initialize.before: 
+[2014-09-11 21:16:28]framework.cache.initialize.after: memcached
+[2014-09-11 21:16:28]framework.session.initialize.before: 
+[2014-09-11 21:16:28]framework.session.initialize.after: server
+[2014-09-11 21:16:28]framework.controller.construct.after: Books
+Average: 0.024779222222222, Longest: 0.099006, Shortest: 0.006, Total: -0.476856
+[2014-09-11 21:25:49]framework.configuration.initialize.before: ini
+[2014-09-11 21:25:49]framework.configuration.initialize.after: ini
+[2014-09-11 21:25:49]framework.database.initialize.before: 
+[2014-09-11 21:25:49]framework.database.initialize.after: mysql
+[2014-09-11 21:25:49]framework.cache.initialize.before: 
+[2014-09-11 21:25:49]framework.cache.initialize.after: memcached
+[2014-09-11 21:25:49]framework.session.initialize.before: 
+[2014-09-11 21:25:49]framework.session.initialize.after: server
+Average: 0.015625875, Longest: 0.025002, Shortest: 0.0050009999999999, Total: 0.186011
+[2014-09-11 21:27:23]framework.configuration.initialize.before: ini
+[2014-09-11 21:27:23]framework.configuration.initialize.after: ini
+[2014-09-11 21:27:23]framework.database.initialize.before: 
+[2014-09-11 21:27:23]framework.database.initialize.after: mysql
+[2014-09-11 21:27:23]framework.cache.initialize.before: 
+[2014-09-11 21:27:23]framework.cache.initialize.after: memcached
+[2014-09-11 21:27:23]framework.session.initialize.before: 
+[2014-09-11 21:27:23]framework.session.initialize.after: server
+Average: 0.016000875, Longest: 0.026001, Shortest: 0.006, Total: 0.309132
+[2014-09-11 21:29:33]framework.configuration.initialize.before: ini
+[2014-09-11 21:29:33]framework.configuration.initialize.after: ini
+[2014-09-11 21:29:33]framework.database.initialize.before: 
+[2014-09-11 21:29:33]framework.database.initialize.after: mysql
+[2014-09-11 21:29:33]framework.cache.initialize.before: 
+[2014-09-11 21:29:33]framework.cache.initialize.after: memcached
+[2014-09-11 21:29:33]framework.session.initialize.before: 
+[2014-09-11 21:29:33]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.026002, Shortest: 0.006, Total: 0.187125
+[2014-09-11 21:31:14]framework.configuration.initialize.before: ini
+[2014-09-11 21:31:14]framework.configuration.initialize.after: ini
+[2014-09-11 21:31:14]framework.database.initialize.before: 
+[2014-09-11 21:31:14]framework.database.initialize.after: mysql
+[2014-09-11 21:31:14]framework.cache.initialize.before: 
+[2014-09-11 21:31:14]framework.cache.initialize.after: memcached
+[2014-09-11 21:31:14]framework.session.initialize.before: 
+[2014-09-11 21:31:14]framework.session.initialize.after: server
+[2014-09-11 21:31:14]framework.controller.construct.after: Books
+Average: 0.025445888888889, Longest: 0.098005, Shortest: 0.006001, Total: 0.237128
+[2014-09-11 21:34:32]framework.configuration.initialize.before: ini
+[2014-09-11 21:34:32]framework.configuration.initialize.after: ini
+[2014-09-11 21:34:32]framework.database.initialize.before: 
+[2014-09-11 21:34:32]framework.database.initialize.after: mysql
+[2014-09-11 21:34:32]framework.cache.initialize.before: 
+[2014-09-11 21:34:32]framework.cache.initialize.after: memcached
+[2014-09-11 21:34:32]framework.session.initialize.before: 
+[2014-09-11 21:34:32]framework.session.initialize.after: server
+[2014-09-11 21:34:32]framework.controller.construct.after: Start
+[2014-09-11 21:34:32]framework.controller.construct.after: Books
+Average: 0.0278016, Longest: 0.084005, Shortest: 0.006, Total: 0.304131
+[2014-09-11 21:35:25]framework.configuration.initialize.before: ini
+[2014-09-11 21:35:25]framework.configuration.initialize.after: ini
+[2014-09-11 21:35:25]framework.database.initialize.before: 
+[2014-09-11 21:35:25]framework.database.initialize.after: mysql
+[2014-09-11 21:35:25]framework.cache.initialize.before: 
+[2014-09-11 21:35:25]framework.cache.initialize.after: memcached
+[2014-09-11 21:35:25]framework.session.initialize.before: 
+[2014-09-11 21:35:25]framework.session.initialize.after: server
+[2014-09-11 21:35:26]framework.controller.construct.after: Start
+[2014-09-11 21:35:26]framework.controller.construct.after: Books
+Average: -0.0710984, Longest: 0.068004, Shortest: -0.906995, Total: -0.700869
+[2014-09-11 21:36:11]framework.configuration.initialize.before: ini
+[2014-09-11 21:36:11]framework.configuration.initialize.after: ini
+[2014-09-11 21:36:11]framework.database.initialize.before: 
+[2014-09-11 21:36:11]framework.database.initialize.after: mysql
+[2014-09-11 21:36:11]framework.cache.initialize.before: 
+[2014-09-11 21:36:11]framework.cache.initialize.after: memcached
+[2014-09-11 21:36:11]framework.session.initialize.before: 
+[2014-09-11 21:36:11]framework.session.initialize.after: server
+[2014-09-11 21:36:11]framework.controller.construct.after: Start
+[2014-09-11 21:36:11]framework.controller.construct.after: Books
+Average: 0.053103, Longest: 0.160009, Shortest: 0.012001, Total: 0.566032
+[2014-09-11 21:38:56]framework.configuration.initialize.before: ini
+[2014-09-11 21:38:56]framework.configuration.initialize.after: ini
+[2014-09-11 21:38:56]framework.database.initialize.before: 
+[2014-09-11 21:38:56]framework.database.initialize.after: mysql
+[2014-09-11 21:38:57]framework.cache.initialize.before: 
+[2014-09-11 21:38:57]framework.cache.initialize.after: memcached
+[2014-09-11 21:38:57]framework.session.initialize.before: 
+[2014-09-11 21:38:57]framework.session.initialize.after: server
+[2014-09-11 21:38:57]framework.controller.construct.after: Start
+[2014-09-11 21:38:57]framework.controller.construct.after: Books
+Average: -0.0441968, Longest: 0.197011, Shortest: -0.956998, Total: -0.415967
+[2014-09-11 21:40:03]framework.configuration.initialize.before: ini
+[2014-09-11 21:40:03]framework.configuration.initialize.after: ini
+[2014-09-11 21:40:03]framework.database.initialize.before: 
+[2014-09-11 21:40:03]framework.database.initialize.after: mysql
+[2014-09-11 21:40:03]framework.cache.initialize.before: 
+[2014-09-11 21:40:03]framework.cache.initialize.after: memcached
+[2014-09-11 21:40:03]framework.session.initialize.before: 
+[2014-09-11 21:40:03]framework.session.initialize.after: server
+[2014-09-11 21:40:03]framework.controller.construct.after: Start
+[2014-09-11 21:40:03]framework.controller.construct.after: Books
+Average: 0.0275015, Longest: 0.084005, Shortest: 0.006, Total: 0.28213
+[2014-09-11 21:40:28]framework.configuration.initialize.before: ini
+[2014-09-11 21:40:28]framework.configuration.initialize.after: ini
+[2014-09-11 21:40:29]framework.database.initialize.before: 
+[2014-09-11 21:40:29]framework.database.initialize.after: mysql
+[2014-09-11 21:40:29]framework.cache.initialize.before: 
+[2014-09-11 21:40:29]framework.cache.initialize.after: memcached
+[2014-09-11 21:40:29]framework.session.initialize.before: 
+[2014-09-11 21:40:29]framework.session.initialize.after: server
+[2014-09-11 21:40:29]framework.controller.construct.after: Start
+[2014-09-11 21:40:29]framework.controller.construct.after: Books
+Average: -0.0460969, Longest: 0.163009, Shortest: -0.980998, Total: -0.435967
+[2014-09-11 21:40:40]framework.configuration.initialize.before: ini
+[2014-09-11 21:40:40]framework.configuration.initialize.after: ini
+[2014-09-11 21:40:40]framework.database.initialize.before: 
+[2014-09-11 21:40:40]framework.database.initialize.after: mysql
+[2014-09-11 21:40:40]framework.cache.initialize.before: 
+[2014-09-11 21:40:40]framework.cache.initialize.after: memcached
+[2014-09-11 21:40:40]framework.session.initialize.before: 
+[2014-09-11 21:40:40]framework.session.initialize.after: server
+[2014-09-11 21:40:41]framework.controller.construct.after: Start
+[2014-09-11 21:40:41]framework.controller.construct.after: Books
+Average: -0.0427967, Longest: 0.128007, Shortest: -0.83299, Total: -0.402966
+[2014-09-11 21:42:33]framework.configuration.initialize.before: ini
+[2014-09-11 21:42:33]framework.configuration.initialize.after: ini
+[2014-09-11 21:42:33]framework.database.initialize.before: 
+[2014-09-11 21:42:33]framework.database.initialize.after: mysql
+[2014-09-11 21:42:33]framework.cache.initialize.before: 
+[2014-09-11 21:42:34]framework.cache.initialize.after: memcached
+[2014-09-11 21:42:34]framework.session.initialize.before: 
+[2014-09-11 21:42:34]framework.session.initialize.after: server
+Average: -0.108999, Longest: 0.027002, Shortest: -0.981999, Total: -0.782873
+[2014-09-11 21:44:53]framework.configuration.initialize.before: ini
+[2014-09-11 21:44:53]framework.configuration.initialize.after: ini
+[2014-09-11 21:44:53]framework.database.initialize.before: 
+[2014-09-11 21:44:53]framework.database.initialize.after: mysql
+[2014-09-11 21:44:53]framework.cache.initialize.before: 
+[2014-09-11 21:44:53]framework.cache.initialize.after: memcached
+[2014-09-11 21:44:53]framework.session.initialize.before: 
+[2014-09-11 21:44:53]framework.session.initialize.after: server
+Average: 0.016000875, Longest: 0.027001, Shortest: 0.006, Total: -0.512858
+[2014-09-11 21:47:00]framework.configuration.initialize.before: ini
+[2014-09-11 21:47:00]framework.configuration.initialize.after: ini
+[2014-09-11 21:47:00]framework.database.initialize.before: 
+[2014-09-11 21:47:00]framework.database.initialize.after: mysql
+[2014-09-11 21:47:00]framework.cache.initialize.before: 
+[2014-09-11 21:47:00]framework.cache.initialize.after: memcached
+[2014-09-11 21:47:00]framework.session.initialize.before: 
+[2014-09-11 21:47:00]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.026002, Shortest: 0.006001, Total: 0.309132
+[2014-09-11 21:47:54]framework.configuration.initialize.before: ini
+[2014-09-11 21:47:54]framework.configuration.initialize.after: ini
+[2014-09-11 21:47:54]framework.database.initialize.before: 
+[2014-09-11 21:47:54]framework.database.initialize.after: mysql
+[2014-09-11 21:47:54]framework.cache.initialize.before: 
+[2014-09-11 21:47:54]framework.cache.initialize.after: memcached
+[2014-09-11 21:47:54]framework.session.initialize.before: 
+[2014-09-11 21:47:54]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.025001, Shortest: 0.006, Total: -0.695868
+[2014-09-11 21:49:14]framework.configuration.initialize.before: ini
+[2014-09-11 21:49:14]framework.configuration.initialize.after: ini
+[2014-09-11 21:49:14]framework.database.initialize.before: 
+[2014-09-11 21:49:14]framework.database.initialize.after: mysql
+[2014-09-11 21:49:14]framework.cache.initialize.before: 
+[2014-09-11 21:49:14]framework.cache.initialize.after: memcached
+[2014-09-11 21:49:14]framework.session.initialize.before: 
+[2014-09-11 21:49:14]framework.session.initialize.after: server
+Average: 0.017376, Longest: 0.030002, Shortest: 0.006, Total: 0.344134
+[2014-09-11 21:49:15]framework.configuration.initialize.before: ini
+[2014-09-11 21:49:15]framework.configuration.initialize.after: ini
+[2014-09-11 21:49:15]framework.database.initialize.before: 
+[2014-09-11 21:49:16]framework.database.initialize.after: mysql
+[2014-09-11 21:49:16]framework.cache.initialize.before: 
+[2014-09-11 21:49:16]framework.cache.initialize.after: memcached
+[2014-09-11 21:49:16]framework.session.initialize.before: 
+[2014-09-11 21:49:16]framework.session.initialize.after: server
+Average: -0.106498875, Longest: 0.029002, Shortest: -0.981999, Total: -0.19061
+[2014-09-11 21:54:54]framework.configuration.initialize.before: ini
+[2014-09-11 21:54:54]framework.configuration.initialize.after: ini
+[2014-09-11 21:54:54]framework.database.initialize.before: 
+[2014-09-11 21:54:54]framework.database.initialize.after: mysql
+[2014-09-11 21:54:54]framework.cache.initialize.before: 
+[2014-09-11 21:54:54]framework.cache.initialize.after: memcached
+[2014-09-11 21:54:54]framework.session.initialize.before: 
+[2014-09-11 21:54:54]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.025002, Shortest: 0.006, Total: 0.296131
+[2014-09-11 21:56:17]framework.configuration.initialize.before: ini
+[2014-09-11 21:56:17]framework.configuration.initialize.after: ini
+[2014-09-11 21:56:17]framework.database.initialize.before: 
+[2014-09-11 21:56:17]framework.database.initialize.after: mysql
+[2014-09-11 21:56:17]framework.cache.initialize.before: 
+[2014-09-11 21:56:18]framework.cache.initialize.after: memcached
+[2014-09-11 21:56:18]framework.session.initialize.before: 
+[2014-09-11 21:56:18]framework.session.initialize.after: server
+Average: -0.108374, Longest: 0.027002, Shortest: -0.979999, Total: -0.415852
+[2014-09-11 22:03:06]framework.configuration.initialize.before: ini
+[2014-09-11 22:03:06]framework.configuration.initialize.after: ini
+[2014-09-11 22:03:06]framework.database.initialize.before: 
+[2014-09-11 22:03:06]framework.database.initialize.after: mysql
+[2014-09-11 22:03:06]framework.cache.initialize.before: 
+[2014-09-11 22:03:06]framework.cache.initialize.after: memcached
+[2014-09-11 22:03:06]framework.session.initialize.before: 
+[2014-09-11 22:03:06]framework.session.initialize.after: server
+Average: 0.015500875, Longest: 0.025002, Shortest: 0.006001, Total: 0.186011
+[2014-09-11 22:03:38]framework.configuration.initialize.before: ini
+[2014-09-11 22:03:38]framework.configuration.initialize.after: ini
+[2014-09-11 22:03:38]framework.database.initialize.before: 
+[2014-09-11 22:03:38]framework.database.initialize.after: mysql
+[2014-09-11 22:03:38]framework.cache.initialize.before: 
+[2014-09-11 22:03:38]framework.cache.initialize.after: memcached
+[2014-09-11 22:03:38]framework.session.initialize.before: 
+[2014-09-11 22:03:38]framework.session.initialize.after: server
+Average: 0.015750875, Longest: 0.027001, Shortest: 0.006, Total: -0.515858
+[2014-09-11 22:04:42]framework.configuration.initialize.before: ini
+[2014-09-11 22:04:42]framework.configuration.initialize.after: ini
+[2014-09-11 22:04:42]framework.database.initialize.before: 
+[2014-09-11 22:04:42]framework.database.initialize.after: mysql
+[2014-09-11 22:04:42]framework.cache.initialize.before: 
+[2014-09-11 22:04:42]framework.cache.initialize.after: memcached
+[2014-09-11 22:04:43]framework.session.initialize.before: 
+[2014-09-11 22:04:43]framework.session.initialize.after: server
+Average: -0.109374125, Longest: 0.025001, Shortest: -0.985999, Total: -0.442854
+[2014-09-11 22:05:13]framework.configuration.initialize.before: ini
+[2014-09-11 22:05:13]framework.configuration.initialize.after: ini
+[2014-09-11 22:05:13]framework.database.initialize.before: 
+[2014-09-11 22:05:13]framework.database.initialize.after: mysql
+[2014-09-11 22:05:13]framework.cache.initialize.before: 
+[2014-09-11 22:05:13]framework.cache.initialize.after: memcached
+[2014-09-11 22:05:13]framework.session.initialize.before: 
+[2014-09-11 22:05:13]framework.session.initialize.after: server
+Average: 0.0263765, Longest: 0.043002, Shortest: 0.011001, Total: 0.539975
+[2014-09-11 22:05:54]framework.configuration.initialize.before: ini
+[2014-09-11 22:05:54]framework.configuration.initialize.after: ini
+[2014-09-11 22:05:54]framework.database.initialize.before: 
+[2014-09-11 22:05:54]framework.database.initialize.after: mysql
+[2014-09-11 22:05:54]framework.cache.initialize.before: 
+[2014-09-11 22:05:54]framework.cache.initialize.after: memcached
+[2014-09-11 22:05:54]framework.session.initialize.before: 
+[2014-09-11 22:05:54]framework.session.initialize.after: server
+Average: 0.028126625, Longest: 0.045003, Shortest: 0.011001, Total: 0.178069
+[2014-09-11 22:06:34]framework.configuration.initialize.before: ini
+[2014-09-11 22:06:34]framework.configuration.initialize.after: ini
+[2014-09-11 22:06:34]framework.database.initialize.before: 
+[2014-09-11 22:06:34]framework.database.initialize.after: mysql
+[2014-09-11 22:06:34]framework.cache.initialize.before: 
+[2014-09-11 22:06:34]framework.cache.initialize.after: memcached
+[2014-09-11 22:06:34]framework.session.initialize.before: 
+[2014-09-11 22:06:34]framework.session.initialize.after: server
+Average: 0.015500875, Longest: 0.026002, Shortest: 0.006, Total: -0.476856
+[2014-09-11 22:06:52]framework.configuration.initialize.before: ini
+[2014-09-11 22:06:52]framework.configuration.initialize.after: ini
+[2014-09-11 22:06:52]framework.database.initialize.before: 
+[2014-09-11 22:06:52]framework.database.initialize.after: mysql
+[2014-09-11 22:06:52]framework.cache.initialize.before: 
+[2014-09-11 22:06:52]framework.cache.initialize.after: memcached
+[2014-09-11 22:06:52]framework.session.initialize.before: 
+[2014-09-11 22:06:52]framework.session.initialize.after: server
+Average: 0.0263765, Longest: 0.041002, Shortest: 0.011001, Total: 0.13558
+[2014-09-11 22:07:07]framework.configuration.initialize.before: ini
+[2014-09-11 22:07:07]framework.configuration.initialize.after: ini
+[2014-09-11 22:07:07]framework.database.initialize.before: 
+[2014-09-11 22:07:07]framework.database.initialize.after: mysql
+[2014-09-11 22:07:07]framework.cache.initialize.before: 
+[2014-09-11 22:07:07]framework.cache.initialize.after: memcached
+[2014-09-11 22:07:07]framework.session.initialize.before: 
+[2014-09-11 22:07:07]framework.session.initialize.after: server
+Average: 0.0265015, Longest: 0.046002, Shortest: 0.011, Total: 0.04535
+[2014-09-11 22:08:28]framework.configuration.initialize.before: ini
+[2014-09-11 22:08:28]framework.configuration.initialize.after: ini
+[2014-09-11 22:08:29]framework.database.initialize.before: 
+[2014-09-11 22:08:29]framework.database.initialize.after: mysql
+[2014-09-11 22:08:29]framework.cache.initialize.before: 
+[2014-09-11 22:08:29]framework.cache.initialize.after: memcached
+[2014-09-11 22:08:29]framework.session.initialize.before: 
+[2014-09-11 22:08:29]framework.session.initialize.after: server
+Average: -0.109249125, Longest: 0.025001, Shortest: -0.986999, Total: -0.748986
+[2014-09-11 22:08:53]framework.configuration.initialize.before: ini
+[2014-09-11 22:08:53]framework.configuration.initialize.after: ini
+[2014-09-11 22:08:53]framework.database.initialize.before: 
+[2014-09-11 22:08:53]framework.database.initialize.after: mysql
+[2014-09-11 22:08:53]framework.cache.initialize.before: 
+[2014-09-11 22:08:53]framework.cache.initialize.after: memcached
+[2014-09-11 22:08:53]framework.session.initialize.before: 
+[2014-09-11 22:08:53]framework.session.initialize.after: server
+Average: 0.015876, Longest: 0.026002, Shortest: 0.006001, Total: -0.667866
+[2014-09-11 22:09:12]framework.configuration.initialize.before: ini
+[2014-09-11 22:09:12]framework.configuration.initialize.after: ini
+[2014-09-11 22:09:12]framework.database.initialize.before: 
+[2014-09-11 22:09:12]framework.database.initialize.after: mysql
+[2014-09-11 22:09:12]framework.cache.initialize.before: 
+[2014-09-11 22:09:12]framework.cache.initialize.after: memcached
+[2014-09-11 22:09:12]framework.session.initialize.before: 
+[2014-09-11 22:09:12]framework.session.initialize.after: server
+Average: 0.018876, Longest: 0.031001, Shortest: 0.012001, Total: 0.360135
+[2014-09-11 22:09:53]framework.configuration.initialize.before: ini
+[2014-09-11 22:09:53]framework.configuration.initialize.after: ini
+[2014-09-11 22:09:53]framework.database.initialize.before: 
+[2014-09-11 22:09:53]framework.database.initialize.after: mysql
+[2014-09-11 22:09:53]framework.cache.initialize.before: 
+[2014-09-11 22:09:53]framework.cache.initialize.after: memcached
+[2014-09-11 22:09:53]framework.session.initialize.before: 
+[2014-09-11 22:09:53]framework.session.initialize.after: server
+Average: 0.016001, Longest: 0.026001, Shortest: 0.006, Total: 0.362136
+[2014-09-11 22:10:03]framework.configuration.initialize.before: ini
+[2014-09-11 22:10:03]framework.configuration.initialize.after: ini
+[2014-09-11 22:10:03]framework.database.initialize.before: 
+[2014-09-11 22:10:03]framework.database.initialize.after: mysql
+[2014-09-11 22:10:03]framework.cache.initialize.before: 
+[2014-09-11 22:10:03]framework.cache.initialize.after: memcached
+[2014-09-11 22:10:03]framework.session.initialize.before: 
+[2014-09-11 22:10:03]framework.session.initialize.after: server
+Average: 0.028626625, Longest: 0.053003, Shortest: 0.011001, Total: 0.531174
+[2014-09-11 22:10:43]framework.configuration.initialize.before: ini
+[2014-09-11 22:10:43]framework.configuration.initialize.after: ini
+[2014-09-11 22:10:43]framework.database.initialize.before: 
+[2014-09-11 22:10:43]framework.database.initialize.after: mysql
+[2014-09-11 22:10:43]framework.cache.initialize.before: 
+[2014-09-11 22:10:44]framework.cache.initialize.after: memcached
+[2014-09-11 22:10:44]framework.session.initialize.before: 
+[2014-09-11 22:10:44]framework.session.initialize.after: server
+Average: -0.109124125, Longest: 0.027001, Shortest: -0.980999, Total: -0.625865
+[2014-09-11 22:11:08]framework.configuration.initialize.before: ini
+[2014-09-11 22:11:08]framework.configuration.initialize.after: ini
+[2014-09-11 22:11:08]framework.database.initialize.before: 
+[2014-09-11 22:11:08]framework.database.initialize.after: mysql
+[2014-09-11 22:11:08]framework.cache.initialize.before: 
+[2014-09-11 22:11:08]framework.cache.initialize.after: memcached
+[2014-09-11 22:11:08]framework.session.initialize.before: 
+[2014-09-11 22:11:08]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.026001, Shortest: 0.006, Total: 0.360135
+[2014-09-11 22:11:38]framework.configuration.initialize.before: ini
+[2014-09-11 22:11:38]framework.configuration.initialize.after: ini
+[2014-09-11 22:11:38]framework.database.initialize.before: 
+[2014-09-11 22:11:38]framework.database.initialize.after: mysql
+[2014-09-11 22:11:38]framework.cache.initialize.before: 
+[2014-09-11 22:11:38]framework.cache.initialize.after: memcached
+[2014-09-11 22:11:38]framework.session.initialize.before: 
+[2014-09-11 22:11:38]framework.session.initialize.after: server
+Average: 0.028126625, Longest: 0.046003, Shortest: 0.011, Total: -0.002965
+[2014-09-11 22:13:43]framework.configuration.initialize.before: ini
+[2014-09-11 22:13:43]framework.configuration.initialize.after: ini
+[2014-09-11 22:13:44]framework.database.initialize.before: 
+[2014-09-11 22:13:44]framework.database.initialize.after: mysql
+[2014-09-11 22:13:44]framework.cache.initialize.before: 
+[2014-09-11 22:13:44]framework.cache.initialize.after: memcached
+[2014-09-11 22:13:44]framework.session.initialize.before: 
+[2014-09-11 22:13:44]framework.session.initialize.after: server
+Average: -0.090498125, Longest: 0.107006, Shortest: -0.979999, Total: -0.792293
+[2014-09-11 22:16:57]framework.configuration.initialize.before: ini
+[2014-09-11 22:16:57]framework.configuration.initialize.after: ini
+[2014-09-11 22:16:57]framework.database.initialize.before: 
+[2014-09-11 22:16:57]framework.database.initialize.after: mysql
+[2014-09-11 22:16:57]framework.cache.initialize.before: 
+[2014-09-11 22:16:57]framework.cache.initialize.after: memcached
+[2014-09-11 22:16:57]framework.session.initialize.before: 
+[2014-09-11 22:16:57]framework.session.initialize.after: server
+Average: 0.0253765, Longest: 0.045002, Shortest: 0.011, Total: 0.725071
+[2014-09-11 22:17:33]framework.configuration.initialize.before: ini
+[2014-09-11 22:17:33]framework.configuration.initialize.after: ini
+[2014-09-11 22:17:33]framework.database.initialize.before: 
+[2014-09-11 22:17:33]framework.database.initialize.after: mysql
+[2014-09-11 22:17:33]framework.cache.initialize.before: 
+[2014-09-11 22:17:33]framework.cache.initialize.after: memcached
+[2014-09-11 22:17:33]framework.session.initialize.before: 
+[2014-09-11 22:17:33]framework.session.initialize.after: server
+Average: 0.0275015, Longest: 0.048002, Shortest: 0.010001, Total: 0.326162
+[2014-09-11 22:18:09]framework.configuration.initialize.before: ini
+[2014-09-11 22:18:09]framework.configuration.initialize.after: ini
+[2014-09-11 22:18:09]framework.database.initialize.before: 
+[2014-09-11 22:18:09]framework.database.initialize.after: mysql
+[2014-09-11 22:18:09]framework.cache.initialize.before: 
+[2014-09-11 22:18:09]framework.cache.initialize.after: memcached
+[2014-09-11 22:18:09]framework.session.initialize.before: 
+[2014-09-11 22:18:09]framework.session.initialize.after: server
+Average: 0.015750875, Longest: 0.025002, Shortest: 0.005001, Total: -0.535859
+[2014-09-11 22:26:45]framework.configuration.initialize.before: ini
+[2014-09-11 22:26:45]framework.configuration.initialize.after: ini
+[2014-09-11 22:26:45]framework.database.initialize.before: 
+[2014-09-11 22:26:45]framework.database.initialize.after: mysql
+[2014-09-11 22:26:45]framework.cache.initialize.before: 
+[2014-09-11 22:26:45]framework.cache.initialize.after: memcached
+[2014-09-11 22:26:45]framework.session.initialize.before: 
+[2014-09-11 22:26:45]framework.session.initialize.after: server
+Average: 0.016250875, Longest: 0.025001, Shortest: 0.006, Total: 0.592148
+[2014-09-11 22:27:13]framework.configuration.initialize.before: ini
+[2014-09-11 22:27:13]framework.configuration.initialize.after: ini
+[2014-09-11 22:27:13]framework.database.initialize.before: 
+[2014-09-11 22:27:13]framework.database.initialize.after: mysql
+[2014-09-11 22:27:13]framework.cache.initialize.before: 
+[2014-09-11 22:27:13]framework.cache.initialize.after: memcached
+[2014-09-11 22:27:13]framework.session.initialize.before: 
+[2014-09-11 22:27:13]framework.session.initialize.after: server
+Average: 0.015750875, Longest: 0.025002, Shortest: 0.006001, Total: 0.570147
+[2014-09-11 22:27:30]framework.configuration.initialize.before: ini
+[2014-09-11 22:27:30]framework.configuration.initialize.after: ini
+[2014-09-11 22:27:30]framework.database.initialize.before: 
+[2014-09-11 22:27:30]framework.database.initialize.after: mysql
+[2014-09-11 22:27:30]framework.cache.initialize.before: 
+[2014-09-11 22:27:30]framework.cache.initialize.after: memcached
+[2014-09-11 22:27:30]framework.session.initialize.before: 
+[2014-09-11 22:27:30]framework.session.initialize.after: server
+Average: 0.016125875, Longest: 0.026001, Shortest: 0.006, Total: 0.527144
+[2014-09-11 22:27:49]framework.configuration.initialize.before: ini
+[2014-09-11 22:27:49]framework.configuration.initialize.after: ini
+[2014-09-11 22:27:49]framework.database.initialize.before: 
+[2014-09-11 22:27:50]framework.database.initialize.after: mysql
+[2014-09-11 22:27:50]framework.cache.initialize.before: 
+[2014-09-11 22:27:50]framework.cache.initialize.after: memcached
+[2014-09-11 22:27:50]framework.session.initialize.before: 
+[2014-09-11 22:27:50]framework.session.initialize.after: server
+Average: -0.095748375, Longest: 0.050003, Shortest: -0.961998, Total: -0.893937
+[2014-09-11 22:27:58]framework.configuration.initialize.before: ini
+[2014-09-11 22:27:58]framework.configuration.initialize.after: ini
+[2014-09-11 22:27:58]framework.database.initialize.before: 
+[2014-09-11 22:27:58]framework.database.initialize.after: mysql
+[2014-09-11 22:27:58]framework.cache.initialize.before: 
+[2014-09-11 22:27:58]framework.cache.initialize.after: memcached
+[2014-09-11 22:27:58]framework.session.initialize.before: 
+[2014-09-11 22:27:58]framework.session.initialize.after: server
+Average: 0.033752, Longest: 0.055003, Shortest: 0.024001, Total: 0.045062
+[2014-09-11 22:28:40]framework.configuration.initialize.before: ini
+[2014-09-11 22:28:40]framework.configuration.initialize.after: ini
+[2014-09-11 22:28:40]framework.database.initialize.before: 
+[2014-09-11 22:28:40]framework.database.initialize.after: mysql
+[2014-09-11 22:28:40]framework.cache.initialize.before: 
+[2014-09-11 22:28:40]framework.cache.initialize.after: memcached
+[2014-09-11 22:28:40]framework.session.initialize.before: 
+[2014-09-11 22:28:40]framework.session.initialize.after: server
+Average: 0.015876, Longest: 0.026002, Shortest: 0.006, Total: -0.499971
+[2014-09-11 22:29:06]framework.configuration.initialize.before: ini
+[2014-09-11 22:29:06]framework.configuration.initialize.after: ini
+[2014-09-11 22:29:06]framework.database.initialize.before: 
+[2014-09-11 22:29:06]framework.database.initialize.after: mysql
+[2014-09-11 22:29:06]framework.cache.initialize.before: 
+[2014-09-11 22:29:06]framework.cache.initialize.after: memcached
+[2014-09-11 22:29:06]framework.session.initialize.before: 
+[2014-09-11 22:29:06]framework.session.initialize.after: server
+Average: 0.017000875, Longest: 0.029001, Shortest: 0.007, Total: 0.612149
+[2014-09-11 22:29:35]framework.configuration.initialize.before: ini
+[2014-09-11 22:29:35]framework.configuration.initialize.after: ini
+[2014-09-11 22:29:35]framework.database.initialize.before: 
+[2014-09-11 22:29:35]framework.database.initialize.after: mysql
+[2014-09-11 22:29:35]framework.cache.initialize.before: 
+[2014-09-11 22:29:35]framework.cache.initialize.after: memcached
+[2014-09-11 22:29:35]framework.session.initialize.before: 
+[2014-09-11 22:29:35]framework.session.initialize.after: server
+Average: 0.015876, Longest: 0.026002, Shortest: 0.006001, Total: 0.572147
+[2014-09-11 22:30:02]framework.configuration.initialize.before: ini
+[2014-09-11 22:30:02]framework.configuration.initialize.after: ini
+[2014-09-11 22:30:02]framework.database.initialize.before: 
+[2014-09-11 22:30:02]framework.database.initialize.after: mysql
+[2014-09-11 22:30:02]framework.cache.initialize.before: 
+[2014-09-11 22:30:02]framework.cache.initialize.after: memcached
+[2014-09-11 22:30:02]framework.session.initialize.before: 
+[2014-09-11 22:30:02]framework.session.initialize.after: server
+Average: -0.096623375, Longest: 0.045003, Shortest: -0.969999, Total: -0.113518
+[2014-09-11 22:31:37]framework.configuration.initialize.before: ini
+[2014-09-11 22:31:37]framework.configuration.initialize.after: ini
+[2014-09-11 22:31:37]framework.database.initialize.before: 
+[2014-09-11 22:31:37]framework.database.initialize.after: mysql
+[2014-09-11 22:31:37]framework.cache.initialize.before: 
+[2014-09-11 22:31:37]framework.cache.initialize.after: memcached
+[2014-09-11 22:31:37]framework.session.initialize.before: 
+[2014-09-11 22:31:37]framework.session.initialize.after: server
+Average: 0.025126375, Longest: 0.041003, Shortest: 0.010001, Total: -0.343734
+[2014-09-11 22:33:07]framework.configuration.initialize.before: ini
+[2014-09-11 22:33:07]framework.configuration.initialize.after: ini
+[2014-09-11 22:33:07]framework.database.initialize.before: 
+[2014-09-11 22:33:07]framework.database.initialize.after: mysql
+[2014-09-11 22:33:07]framework.cache.initialize.before: 
+[2014-09-11 22:33:07]framework.cache.initialize.after: memcached
+[2014-09-11 22:33:07]framework.session.initialize.before: 
+[2014-09-11 22:33:07]framework.session.initialize.after: server
+Average: 0.02937675, Longest: 0.056003, Shortest: 0.011001, Total: -0.368406
+[2014-09-11 22:37:52]framework.configuration.initialize.before: ini
+[2014-09-11 22:37:52]framework.configuration.initialize.after: ini
+[2014-09-11 22:37:52]framework.database.initialize.before: 
+[2014-09-11 22:37:52]framework.database.initialize.after: mysql
+[2014-09-11 22:37:52]framework.cache.initialize.before: 
+[2014-09-11 22:37:52]framework.cache.initialize.after: memcached
+[2014-09-11 22:37:52]framework.session.initialize.before: 
+[2014-09-11 22:37:52]framework.session.initialize.after: server
+Average: 0.016250875, Longest: 0.026001, Shortest: 0.006, Total: 0.471141
+[2014-09-11 22:38:26]framework.configuration.initialize.before: ini
+[2014-09-11 22:38:26]framework.configuration.initialize.after: ini
+[2014-09-11 22:38:26]framework.database.initialize.before: 
+[2014-09-11 22:38:26]framework.database.initialize.after: mysql
+[2014-09-11 22:38:27]framework.cache.initialize.before: 
+[2014-09-11 22:38:27]framework.cache.initialize.after: memcached
+[2014-09-11 22:38:27]framework.session.initialize.before: 
+[2014-09-11 22:38:27]framework.session.initialize.after: server
+Average: -0.109249125, Longest: 0.019001, Shortest: -0.972998, Total: -0.610978
+[2014-09-11 22:39:25]framework.configuration.initialize.before: ini
+[2014-09-11 22:39:25]framework.configuration.initialize.after: ini
+[2014-09-11 22:39:25]framework.database.initialize.before: 
+[2014-09-11 22:39:25]framework.database.initialize.after: mysql
+[2014-09-11 22:39:25]framework.cache.initialize.before: 
+[2014-09-11 22:39:25]framework.cache.initialize.after: memcached
+[2014-09-11 22:39:25]framework.session.initialize.before: 
+[2014-09-11 22:39:25]framework.session.initialize.after: server
+Average: 0.016001, Longest: 0.026002, Shortest: 0.006001, Total: -0.650865
+[2014-09-11 22:39:39]framework.configuration.initialize.before: ini
+[2014-09-11 22:39:40]framework.configuration.initialize.after: ini
+[2014-09-11 22:39:40]framework.database.initialize.before: 
+[2014-09-11 22:39:40]framework.database.initialize.after: mysql
+[2014-09-11 22:39:40]framework.cache.initialize.before: 
+[2014-09-11 22:39:40]framework.cache.initialize.after: memcached
+[2014-09-11 22:39:40]framework.session.initialize.before: 
+[2014-09-11 22:39:40]framework.session.initialize.after: server
+Average: -0.105749, Longest: 0.030002, Shortest: -0.994, Total: -0.388851
+[2014-09-11 22:40:14]framework.configuration.initialize.before: ini
+[2014-09-11 22:40:14]framework.configuration.initialize.after: ini
+[2014-09-11 22:40:14]framework.database.initialize.before: 
+[2014-09-11 22:40:14]framework.database.initialize.after: mysql
+[2014-09-11 22:40:14]framework.cache.initialize.before: 
+[2014-09-11 22:40:14]framework.cache.initialize.after: memcached
+[2014-09-11 22:40:14]framework.session.initialize.before: 
+[2014-09-11 22:40:14]framework.session.initialize.after: server
+Average: 0.018751125, Longest: 0.043003, Shortest: 0.006001, Total: 0.488142
+[2014-09-11 22:40:29]framework.configuration.initialize.before: ini
+[2014-09-11 22:40:29]framework.configuration.initialize.after: ini
+[2014-09-11 22:40:29]framework.database.initialize.before: 
+[2014-09-11 22:40:29]framework.database.initialize.after: mysql
+[2014-09-11 22:40:29]framework.cache.initialize.before: 
+[2014-09-11 22:40:29]framework.cache.initialize.after: memcached
+[2014-09-11 22:40:29]framework.session.initialize.before: 
+[2014-09-11 22:40:29]framework.session.initialize.after: server
+Average: 0.015875875, Longest: 0.026002, Shortest: 0.006001, Total: -0.651866
+[2014-09-11 22:40:42]framework.configuration.initialize.before: ini
+[2014-09-11 22:40:42]framework.configuration.initialize.after: ini
+[2014-09-11 22:40:42]framework.database.initialize.before: 
+[2014-09-11 22:40:42]framework.database.initialize.after: mysql
+[2014-09-11 22:40:42]framework.cache.initialize.before: 
+[2014-09-11 22:40:42]framework.cache.initialize.after: memcached
+[2014-09-11 22:40:42]framework.session.initialize.before: 
+[2014-09-11 22:40:42]framework.session.initialize.after: server
+Average: 0.015625875, Longest: 0.025002, Shortest: 0.005001, Total: 0.353135
+[2014-09-11 22:41:10]framework.configuration.initialize.before: ini
+[2014-09-11 22:41:10]framework.configuration.initialize.after: ini
+[2014-09-11 22:41:10]framework.database.initialize.before: 
+[2014-09-11 22:41:10]framework.database.initialize.after: mysql
+[2014-09-11 22:41:10]framework.cache.initialize.before: 
+[2014-09-11 22:41:10]framework.cache.initialize.after: memcached
+[2014-09-11 22:41:10]framework.session.initialize.before: 
+[2014-09-11 22:41:10]framework.session.initialize.after: server
+Average: -0.100498625, Longest: 0.040003, Shortest: -0.975999, Total: -0.58069
+[2014-09-11 22:41:42]framework.configuration.initialize.before: ini
+[2014-09-11 22:41:42]framework.configuration.initialize.after: ini
+[2014-09-11 22:41:42]framework.database.initialize.before: 
+[2014-09-11 22:41:42]framework.database.initialize.after: mysql
+[2014-09-11 22:41:42]framework.cache.initialize.before: 
+[2014-09-11 22:41:42]framework.cache.initialize.after: memcached
+[2014-09-11 22:41:42]framework.session.initialize.before: 
+[2014-09-11 22:41:42]framework.session.initialize.after: server
+Average: 0.016126, Longest: 0.026002, Shortest: 0.006, Total: 0.395137
+[2014-09-11 22:41:59]framework.configuration.initialize.before: ini
+[2014-09-11 22:41:59]framework.configuration.initialize.after: ini
+[2014-09-11 22:41:59]framework.database.initialize.before: 
+[2014-09-11 22:41:59]framework.database.initialize.after: mysql
+[2014-09-11 22:41:59]framework.cache.initialize.before: 
+[2014-09-11 22:41:59]framework.cache.initialize.after: memcached
+[2014-09-11 22:41:59]framework.session.initialize.before: 
+[2014-09-11 22:41:59]framework.session.initialize.after: server
+Average: 0.028501625, Longest: 0.057003, Shortest: 0.011, Total: -0.052853
+[2014-09-11 22:44:34]framework.configuration.initialize.before: ini
+[2014-09-11 22:44:34]framework.configuration.initialize.after: ini
+[2014-09-11 22:44:34]framework.database.initialize.before: 
+[2014-09-11 22:44:34]framework.database.initialize.after: mysql
+[2014-09-11 22:44:34]framework.cache.initialize.before: 
+[2014-09-11 22:44:34]framework.cache.initialize.after: memcached
+[2014-09-11 22:44:34]framework.session.initialize.before: 
+[2014-09-11 22:44:34]framework.session.initialize.after: server
+Average: 0.034752, Longest: 0.062003, Shortest: 0.010001, Total: 0.482375
+[2014-09-11 22:45:58]framework.configuration.initialize.before: ini
+[2014-09-11 22:45:58]framework.configuration.initialize.after: ini
+[2014-09-11 22:45:58]framework.database.initialize.before: 
+[2014-09-11 22:45:58]framework.database.initialize.after: mysql
+[2014-09-11 22:45:58]framework.cache.initialize.before: 
+[2014-09-11 22:45:58]framework.cache.initialize.after: memcached
+[2014-09-11 22:45:58]framework.session.initialize.before: 
+[2014-09-11 22:45:58]framework.session.initialize.after: server
+Average: 0.030251625, Longest: 0.047003, Shortest: 0.011001, Total: 0.02423
